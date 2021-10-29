@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... REDcap! 
 -                   (reading) a study in cultural metaphyscis - Jean Bauldrillard
 - 🌱 -> Fall 2021 - finishing application for doctorate in information science  
--     -> What have I done? open tree in resume folder for a high-level project visual  
+-     -> What have I done? open TREE in resume folder for a high-level PROJECT VISUAL
 -     
 - 💞️ Need collaboration help ? ...love new vectors: flow psychological research, positive mental states, health equity, information science theory  
 - 📫 reach me ... bbethree@outlook.com 
