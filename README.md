@@ -5,7 +5,6 @@
 -     -> Fall 2021 - finishing application for doctorate in information science
 -     ================================================================================= 
 -     ---> What have I done? open tree in resume folder for a high-level project visual  
--     ================================================================================  
 -     
 - 💞️ Need collaboration help ? ...love new vectors: flow psychological research, positive mental states, health equity, information science theory  
 - 📫 reach me ... bbethree@outlook.com 
