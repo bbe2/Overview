@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning ... REDcap! 
 -                   (reading) a study in cultural metaphyscis - Jean Bauldrillard
 -     -> Fall 2021 - finishing application for doctorate in information science
+-     ================================================================================= 
+-     ---> What have I done? open tree in resume folder for a high-level project visual  
+-     ================================================================================  
 -     
-- 💞️ I’m looking to collaborate on ... research work quantifying psychological states of flow, building positive mental states
+- 💞️ Need collaboration help ? ...love new vectors: flow psychological research, positive mental states, health equity, information science theory  
 - 📫 reach me ... bbethree@outlook.com 
 
 <!---
