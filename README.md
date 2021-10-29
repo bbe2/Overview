@@ -2,8 +2,8 @@
 - 👀 I’m interested in ... advancing health equity focus on marginalized youth, substance use  vectors  
 - 🌱 I’m currently learning ... REDcap! 
 -                   (reading) a study in cultural metaphyscis - Jean Bauldrillard
---> Fall 2021 - finishing application for doctorate in information science  
-----> What have I done? open tree in resume folder for a high-level project visual  
+- 🌱 -> Fall 2021 - finishing application for doctorate in information science  
+- 🌱 ---> What have I done? open tree in resume folder for a high-level project visual  
 -     
 - 💞️ Need collaboration help ? ...love new vectors: flow psychological research, positive mental states, health equity, information science theory  
 - 📫 reach me ... bbethree@outlook.com 
