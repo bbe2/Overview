@@ -15,7 +15,7 @@
 
 -- 👀- 👀--> Role models -> Leanrning Salon, F. Chollet, 
 
--- 👀-> amazing people: Chalmers,D. , Baudrillard, J., 
+-- 👀-> amazing people: Chalmers,D. , Baudrillard, J., Ida Momennejad + John Langford (MSFT), 
 -   
 - 🌱✨ I’m currently learning ... REDcap! doing a nursing research project
 - 
