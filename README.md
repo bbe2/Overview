@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bbe  - research enthuasiats, trained data scientist, love statitics, spent time re-engineering pharma w data science. Go CUSE !
--   
+
 - 👀 I’m interested in ... advancing health equity focus on marginalized youth through tech  
 
 -- 👀- 👀  Adept building ontologies, informed with scientific research, to frame analysis + translate into structures  
@@ -13,20 +13,18 @@
 
 -- 👀- 👀-- 👀- 👀- ...> Investigate new social paradigms, mechanisms of influence, simulacrum structures, and nascent indicators  
 
--- 👀- 👀--> Role models -> Leanrning Salon, F. Chollet, 
+-- 👀- 👀--> Role models -> Leanrning Salon, F. Chollet, Chalmers,D. , Baudrillard, J., Ida Momennejad + John Langford (MSFT), 
 
--- 👀-> amazing people: Chalmers,D. , Baudrillard, J., Ida Momennejad + John Langford (MSFT), 
--   
-- 🌱✨ I’m currently learning ... REDcap! doing a nursing research project
-- 
--  (reading) a study in cultural metaphyscis - Jean Bauldrillard
--  
-- 🌱✨✨ -> Fall 2021 - finishing application for doctorate in information science  
-- 
+-- 👀-> 🌱✨ I’m currently learning ... REDcap! doing a nursing research project
+
+- 🌱✨✨ -> Dec 2021 - finishing application for doctorate in information science  
+
 -     -> What have I done? open TREE in resume folder for a high-level PROJECT VISUAL
--     -> (dec) NEW 1 hr daily study probaility, statistics, and data using R - Speegle + Clair (great refresher)  
+-     -> (dec) NEW 1 hr daily study <probaility, statistics, and data using R> - Speegle + Clair (great refresher)  
+-     
 - 💞️ Need collaboration help ? ...love new vectors: flow psychological research, positive mental states, health equity, information science theory  
-- 
+
+-- 👀-> 🌱✨ I’m currently learning ... REDcap! doing a nursing research project
 - 📫 reach me ... brian.p.hogan@alumni.harvard.edu  
 
 <!---
