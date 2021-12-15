@@ -18,8 +18,9 @@
 
 -- 👀--> I’m currently learning ... REDcap! doing a nursing research project
 
+--------------------------------------------------------------------------------------------------------------
 -- 👀-> Dec 2021 - building acceptance for doctorate in information science 🌱✨✨ 
--
+----------------------------------------------------------------------------------------------------
 
 - I have alwasy been driven to social and info theory. check out my sociology papers on postmodernism, ULTRA-modern, marxist dead labor
 - i left a masters in sociology bc of work out out state and no online or school near where I lived. I raised and trained horses and everything farm. 
