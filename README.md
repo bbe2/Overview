@@ -5,6 +5,7 @@
 -- 👀- 👀  Adept building ontologies, informed with scientific research, to frame analysis + translate into structures  
 
 -- 👀- 👀-  👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense  ✨✨  
+
 -- 👀- 👀-- 👀- 👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense  ✨✨  
 
 -- 👀- 👀-- 👀- 👀- ----> deep practical re-engineering w complex machine + operations designing improvement, BOMs, prod goals 
