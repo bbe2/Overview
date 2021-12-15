@@ -23,12 +23,8 @@
 -     -> What have I done? open TREE in resume folder for a high-level PROJECT VISUAL
 -     -> (dec) NEW 1 hr daily study <probaility, statistics, and data using R> - Speegle + Clair (great refresher)  
 -     
-- 💞️ Need collaboration help ? ...love new vectors: flow psychological research, positive mental states, health equity, information science theory  
+- 💞️ Need collaboration help ? ...info theory, editing, data organizing - ask me 
 
 -- 👀-> 🌱✨ I’m currently learning ... REDcap! doing a nursing research project
-- 📫 reach me ... brian.p.hogan@alumni.harvard.edu  
 
-<!---
-bbe2/bbe2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 reach me ... brian.p.hogan@alumni.harvard.edu  
