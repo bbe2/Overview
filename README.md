@@ -30,7 +30,7 @@
 ------------------------------------------
 
 - I have alwasy been driven to social and info theory. check out my sociology papers on postmodernism, ULTRA-modern, marxist dead labor  
-- i left a masters in sociology bc of work out out state and no online or school near where I lived. I raised and trained horses and everything farm. 
+- i left a masters in sociology bc of out state work and no online or school where I lived. I raised and trained horses and everything farm. 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 - in 2000 i wrote "all humans and systems are blended together through capitiamism's onslaught where computing tech taking control of the real. The real has been replaced by matrices, memory banks, command models, and operating systems functioning on intense levels of rationalization, perfect programming no human is alien from  
