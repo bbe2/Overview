@@ -32,11 +32,11 @@
 - If tech is now self-programming itself, has endless GPUs and storage, and Amazon Web Services is in the AIR all around us then why cant we have policy demanding AI systems help ensure health? Healthy AI helps marginalized kids learn how to get dentist, or make decisions on life-styles to ensure their body is safe. Drug companies view safety as take a pill for a weekened bender to potentially transmitted disease. Fenway Health in Boston is pioneering use of tech to ask questions before a one night stand leading to long term health consequences, drug cocktails, and self decay. Safe, healthy humans, expanding consciousness, navigating digital sludge, and building resistance to social paradigms of decay  
 
 - goals - Info Tech Teaching - theory, ethics, programming. spent half my life swiming in it now dedicate rest of life to delivering quality content to help train younger minds to inform decision making practices more deeply than provided through many school programs.  
-- 
+
 - Robots are here, we just cant see how many there are yet.  
 - ----> Jobs are eroding. We need new systems for 'everything not robot' and a new generation learning how to responsibly think about it and ensure humans develop deeper 
 - ---------->consciousness pillars versus over-exposure to AI dread, drug residuals, robotic sex dolls, and AI facsination leading to body and mind destruction.  
-- 
+
 ------------------------------------------------------------------------------------------------------------------------------------
 -     -> What have I done? open TREE in resume folder for a high-level PROJECT VISUAL  
 -     -> (dec) NEW 1 hr daily study <probaility, statistics, and data using R> - Speegle + Clair (great refresher)  
