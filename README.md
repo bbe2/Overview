@@ -1,20 +1,20 @@
-👋 Hi, I’m bbe  - research enthuasiat, trained data scientist, love statitics Go CUSE !
+👋 Hi, I’m bbe  - technical writer, research enthuasiat, robust data science training, love statitics Go CUSE !
 
-- 👀 I’m interested in ... advancing health equity focus on marginalized youth through tech  
+- 👀 I’m interested in ... advancing health equity for marginalized youth through tech  
 
 -- 👀- 👀  Adept building ontologies, informed with scientific research, to frame analysis + translate into structures  
 
 -- 👀- 👀-  👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense  ✨✨  
 
--- 👀- 👀-- 👀- 👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense  ✨✨  
+-- 👀- 👀-- 👀- 👀 ---> deep practical re-engineering w complex machine + operations improvement, BOMs, prod goals ✨✨  
 
--- 👀- 👀-- 👀- 👀- ----> deep practical re-engineering w complex machine + operations designing improvement, BOMs, prod goals 
+-- 👀- 👀-- 👀- 👀- ----> write, edit user manuals, complex user requirements, data diagraming, white papers, sow
 
--- 👀- 👀-- 👀-- 👀- 👀✨----> and researching behavior to move a goal post  
+-- 👀- 👀-- 👀-- 👀- 👀✨----> training and developing staff to reach their potential
 
 -- 👀- 👀-- 👀- 👀- ...> Investigate new social paradigms, mechanisms of influence, simulacrum structures, and nascent indicators  
 
--- 👀- 👀--> Role models -> Leanrning Salon, F. Chollet, Chalmers,D. , Baudrillard, J., Ida Momennejad + John Langford (MSFT), 
+-- 👀- 👀--> Role models -> Leanrning Salon, Feep practical re-engineering w complex machine + operations improvement, BOMs, prod goals . Chollet, Chalmers,D. , Baudrillard, J., Ida Momennejad + John Langford (MSFT), 
 
 -- 👀--> I’m currently learning ... REDcap! doing a nursing research project
 
