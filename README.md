@@ -24,15 +24,15 @@
 
 - LEXisms  
 -  Need to expand understanding and scope of consciousness  
--    beauty will save the world - Dostoevsky  
--      is it more concerning for the lobster to be boiled or for lobster to be exploded with an m80  
--        how important is spice in the dish you are making  
--          as long as man has been able to draw, a dickpick has been somewhere (elon) (sorry if crass)  
--        hunger, anything but hunger  
--       there is something amazing about eating a small morcil of chocolate after a 40 day fast   
--      3 most important things, safety/security, data privacy, health (harvard blood labs + athletic greens (great stuff)  
--    sponsorship is questionable, anytime a sponsor involved a motive, at some level, is involved  
--   man was created by water to carry himself uphill  (peter)  
+- -- beauty will save the world - Dostoevsky  
+-   --   is it more concerning for the lobster to be boiled or for lobster to be exploded with an m80  
+-     --   how important is spice in the dish you are making  
+-    --      as long as man has been able to draw, a dickpick has been somewhere (elon) (sorry if crass)  
+-    --    hunger, anything but hunger  
+-    --   there is something amazing about eating a small morcil of chocolate after a 40 day fast   
+-  --    3 most important things, safety/security, data privacy, health (harvard blood labs + athletic greens (great stuff)  
+-  -  sponsorship is questionable, anytime a sponsor involved a motive, at some level, is involved  
+-  - man was created by water to carry himself uphill  (peter)  
 - ultimate experience of humility is when engaged in a judo match and unsure how ended up on floor
 - 
 - (have more!)
