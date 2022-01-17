@@ -21,7 +21,14 @@
 --------------------------------------------------------------------------------------------------------------
 -- 👀-> Dec 2021 - building acceptance for doctorate in information science 🌱✨✨  
 ----------------------------------------------------------------------------------------------------
+
+
 - LEXisms  
+- Need to expand understanding and scope of consciousness  
+- beauty will save the world - Dostoevsky  
+- is it more concerning for the lobster to be boiled or for lobster to be exploded with an m80  
+- how important is spice in the dish you are making  
+- 
 ------------------------------------------
 
 - I have alwasy been driven to social and info theory. check out my sociology papers on postmodernism, ULTRA-modern, marxist dead labor  
