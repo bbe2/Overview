@@ -19,10 +19,8 @@
 -- 👀--> I’m currently learning ... REDcap! doing a nursing research project  
 
 --------------------------------------------------------------------------------------------------------------
--- 👀-> Dec 2021 - building acceptance for doctorate in information science 🌱✨✨  
+-- 👀-> Jan2022 - building evidence for doctorate in information science AND being Lex Fridman's virtual assistant 🌱✨✨  
 ----------------------------------------------------------------------------------------------------
-
-
 - LEXisms  
 - Need to expand understanding and scope of consciousness  
 - beauty will save the world - Dostoevsky  
