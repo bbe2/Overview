@@ -1,3 +1,8 @@
+--------------------------------------------------------------------------------------------------------------
+-- 👀-> Feb22 - build evidence Lex Fridman virtual assist. Update! made 2nd level on 2/4. Send love  🌱✨✨  
+-- 👀-> Feb22 - Guess what? Hired Adjunct Professor Computer Science SNHU. Near work ! 
+----------------------------------------------------------------------------------------------------
+
 👋 Hi, I’m bbe  - technical writer, research enthuasiat, robust data science training, love statitics Go CUSE !
 
 - 👀 I’m interested in ... advancing health equity for marginalized youth through tech  
@@ -19,7 +24,8 @@
 -- 👀--> I’m currently learning ... REDcap! doing a nursing research project  
 
 --------------------------------------------------------------------------------------------------------------
--- 👀-> Jan2022 - build evidence infoTech doctorate AND Lex Fridman's virtual assistant 🌱✨✨  
+-- 👀-> Feb 2022 - build evidence infoTech doctorate AND Lex Fridman's virtual assistant. Update! made it 2nd level Lex Interview.  🌱✨✨  
+-- 👀-> Feb 2022 - Guess what ? Hired as Adjunct Professor in Computer Science at SNHU. Near my job so can teach whenever ! 
 ----------------------------------------------------------------------------------------------------
 
 - LEXisms  
