@@ -2,9 +2,13 @@
 -- 👀-> build evidence Lex Fridman virtual assist.Update!made 2nd level 2/4.Send love🌱✨
 -- 👀-> Feb22 -Guess what? Hired Adjunct Professor Computer Science SNHU. Near work ! 
 ----------------------------------------------------------------------------------------------------
+
 - LEXisms  
+----------------------------------------------------------
+- it would be beautiful to see a nexus of brainwave transmissions
 -  Need to expand understanding and scope of consciousness  
 - -- beauty will save the world - Dostoevsky  
+- - -reason is a slave of the passions - D. Hume
 -   --   is it more concerning for the lobster to be boiled or for lobster to be exploded with an m80  
 -     --   how important is spice in the dish you are making  
 -    --      as long as man has been able to draw, a dickpick has been somewhere (elon) (sorry if crass)  
@@ -14,15 +18,13 @@
 -  -  sponsorship is questionable, anytime a sponsor involved a motive, at some level, is involved  
 -  - man was created by water to carry himself uphill  (peter)  
 - ultimate experience of humility is when engaged in a judo match and unsure how ended up on floor
--  ----------------------------------------------------------------------
-- expert and ego seem eerily similiar. Some humble professors find term expert and unsolvable koan
-- hard problem of consciousness - what are thoes executive controllers, why useful, experiencing vs raw info processing
-- reason is a slave of the passions - D. Hume
+
+- -----expert and ego seem eerily similiar. Some humble professors find term expert and unsolvable koan
+- --------hard problem of consciousness - executive controllers, why useful, experiencing vs raw info processing
 - ponder the nth of the ride, truly fear death may give deeper meaning and urgency for the moment
-
-
-
-
+- kernels of light towards path of intellectual deepeness and spiritual growth
+--------love of miminalism-----------absence of things that can take up ur attention-----------
+ - (i totally agree
 
 
 ---------------------------------------------------------------------------
@@ -34,6 +36,7 @@
 - What perform:
 - generate supportive notes structure to help guide interview
 - planning - think ahead ensuring contingencies are properly managed w care
+- sponsor management & prioritization
 
 
 
@@ -49,10 +52,9 @@
 - by student Appitudes formulate:  (Lex + Programming + Methods of Communcation) => perfect 1st & second semseter of college. 
 
 
-- 
 
 ----------------------------MY BASELINE IDEAS---------------------------------------
-👋 Hi, I’m bbe  - technical writer, research enthuasiat, robust data science training, love statitics Go CUSE !
+- 👋 Hi, I’m bbe  - technical writer, research enthuasiat, robust data science training, love statitics Go CUSE !
 
 - 👀 I’m interested in ... advancing health equity for marginalized youth + advance life committment to learning through tech 
 
@@ -77,13 +79,7 @@
 -- 👀-> Feb22 -Guess what? Hired Adjunct Professor Computer Science SNHU. Near work ! 
 ----------------------------------------------------------------------------------------------------
 
-- (have more!)
-- in conclusion - love...  
--                   ...exciting and new  ...  
--                               ...come aboard  ...  
--                                   ...where expecting you...the ... (sorry coudn't resist)  
-------------------------------------------
-
+----------------------------------------------------------------------------------------------------------------------------
 - I have alwasy been driven to social and info theory. check out my sociology papers on postmodernism, ULTRA-modern, marxist dead labor  
 - i left a masters in sociology bc of out state work and no online or school where I lived. I raised and trained horses and everything farm. 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
