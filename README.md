@@ -16,21 +16,45 @@
 - ultimate experience of humility is when engaged in a judo match and unsure how ended up on floor
 -  ----------------------------------------------------------------------
 - expert and ego seem eerily similiar. Some humble professors find term expert and unsolvable koan
-- hard problem of consciousness - what are thoes executive controllers and why are they useful to feel experiencing vs raw info processing
+- hard problem of consciousness - what are thoes executive controllers, why useful, experiencing vs raw info processing
 - reason is a slave of the passions - D. Hume
+- ponder the nth of the ride, truly fear death may give deeper meaning and urgency for the moment
 
-------------------------------rough ontology of facets Lex may consider for hiring w probabilitt weights------------------
-- My Lex Features - communication styel, massive topic tree, 
 
+
+
+
+
+---------------------------------------------------------------------------
+- ONTOLOGY WHAT Lex (may) seek from integration of VA
+---------------------------------------------------------------------------------------------
+----LEX FEATURES----rough ontology of facets Lex may consider for hiring w probabilitt weights------------------
+- My Lex Features - communication styel, massive topic tree, knowledge inquiry matrix, Deep Focus = Heightened Reality,
+
+- What perform:
+- generate supportive notes structure to help guide interview
+- planning - think ahead ensuring contingencies are properly managed w care
+
+
+
+-----------------------------------------------------------------------------------------
 - methods - its clear his dedication to long-format podcast has a higher purpose. 
+- --------------------------------------------------------------------------------
+- his father a physicist and insistent on methods. Insistent on focus. Podcast focus could be source material for a higher purpose
+- AWS and other tools can use all video, langugage, and developing a new education level platform
+- could frame certain lectures as baseline education training platform
+
+
+- Reframe the college experience
+- by student Appitudes formulate:  (Lex + Programming + Methods of Communcation) => perfect 1st & second semseter of college. 
 
 
 - 
 
-
+----------------------------MY BASELINE IDEAS---------------------------------------
 👋 Hi, I’m bbe  - technical writer, research enthuasiat, robust data science training, love statitics Go CUSE !
 
-- 👀 I’m interested in ... advancing health equity for marginalized youth through tech  
+- 👀 I’m interested in ... advancing health equity for marginalized youth + advance life committment to learning through tech 
 
 -- 👀- 👀  Adept building ontologies, informed with scientific research, to frame analysis + translate into structures  
 
