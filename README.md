@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------------------------------------
 -- 👀-> build evidence Lex Fridman virtual assist.Update!made 2nd level 2/4.Send love🌱✨
--- 👀-> Feb22 -Guess what? Hired Adjunct Professor Computer Science SNHU. Near work ! 
+-- 👀-> Feb22 -Guess what? Hired Adjunct Professor Computer Science SNHU.
 ----------------------------------------------------------------------------------------------------
 
 - LEXisms  
@@ -39,7 +39,6 @@
 - sponsor management & prioritization
 
 
-
 -----------------------------------------------------------------------------------------
 - methods - its clear his dedication to long-format podcast has a higher purpose. 
 - --------------------------------------------------------------------------------
@@ -50,9 +49,9 @@
 
 - Reframe the college experience
 - by student Appitudes formulate:  (Lex + Programming + Methods of Communcation) => perfect 1st & second semseter of college. 
-
-
-
+-
+-
+-
 ----------------------------MY BASELINE IDEAS---------------------------------------
 - 👋 Hi, I’m bbe  - technical writer, research enthuasiat, robust data science training, love statitics Go CUSE !
 
