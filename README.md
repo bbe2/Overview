@@ -1,7 +1,32 @@
 --------------------------------------------------------------------------------------------------------------
--- 👀-> Feb22 - build evidence Lex Fridman virtual assist.Update!made 2nd level 2/4. Send love  🌱✨✨  
--- 👀-> Feb22 - Guess what? Hired Adjunct Professor Computer Science SNHU. Near work ! 
+-- 👀-> build evidence Lex Fridman virtual assist.Update!made 2nd level 2/4.Send love🌱✨
+-- 👀-> Feb22 -Guess what? Hired Adjunct Professor Computer Science SNHU. Near work ! 
 ----------------------------------------------------------------------------------------------------
+- LEXisms  
+-  Need to expand understanding and scope of consciousness  
+- -- beauty will save the world - Dostoevsky  
+-   --   is it more concerning for the lobster to be boiled or for lobster to be exploded with an m80  
+-     --   how important is spice in the dish you are making  
+-    --      as long as man has been able to draw, a dickpick has been somewhere (elon) (sorry if crass)  
+-    --    hunger, anything but hunger  
+-    --   there is something amazing about eating a small morcil of chocolate after a 40 day fast   
+-  --    3 most important things, safety/security, data privacy, health (harvard blood labs + athletic greens (great stuff)  
+-  -  sponsorship is questionable, anytime a sponsor involved a motive, at some level, is involved  
+-  - man was created by water to carry himself uphill  (peter)  
+- ultimate experience of humility is when engaged in a judo match and unsure how ended up on floor
+-  ----------------------------------------------------------------------
+- expert and ego seem eerily similiar. Some humble professors find term expert and unsolvable koan
+- hard problem of consciousness - what are thoes executive controllers and why are they useful to feel experiencing vs raw info processing
+- reason is a slave of the passions - D. Hume
+
+------------------------------rough ontology of facets Lex may consider for hiring w probabilitt weights------------------
+- My Lex Features - communication styel, massive topic tree, 
+
+- methods - its clear his dedication to long-format podcast has a higher purpose. 
+
+
+- 
+
 
 👋 Hi, I’m bbe  - technical writer, research enthuasiat, robust data science training, love statitics Go CUSE !
 
@@ -24,23 +49,10 @@
 -- 👀--> I’m currently learning ... REDcap! doing a nursing research project  
 
 --------------------------------------------------------------------------------------------------------------
--- 👀-> Feb 2022 - build evidence infoTech doctorate AND Lex Fridman's virtual assistant. Update! made it 2nd level Lex Interview.  🌱✨✨  
--- 👀-> Feb 2022 - Guess what ? Hired as Adjunct Professor in Computer Science at SNHU. Near my job so can teach whenever ! 
+-- 👀-> build evidence Lex Fridman virtual assist.Update!made 2nd level 2/4.Send love🌱✨
+-- 👀-> Feb22 -Guess what? Hired Adjunct Professor Computer Science SNHU. Near work ! 
 ----------------------------------------------------------------------------------------------------
 
-- LEXisms  
--  Need to expand understanding and scope of consciousness  
-- -- beauty will save the world - Dostoevsky  
--   --   is it more concerning for the lobster to be boiled or for lobster to be exploded with an m80  
--     --   how important is spice in the dish you are making  
--    --      as long as man has been able to draw, a dickpick has been somewhere (elon) (sorry if crass)  
--    --    hunger, anything but hunger  
--    --   there is something amazing about eating a small morcil of chocolate after a 40 day fast   
--  --    3 most important things, safety/security, data privacy, health (harvard blood labs + athletic greens (great stuff)  
--  -  sponsorship is questionable, anytime a sponsor involved a motive, at some level, is involved  
--  - man was created by water to carry himself uphill  (peter)  
-- ultimate experience of humility is when engaged in a judo match and unsure how ended up on floor
-- 
 - (have more!)
 - in conclusion - love...  
 -                   ...exciting and new  ...  
