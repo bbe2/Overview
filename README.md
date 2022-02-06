@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------------------------------------
--- 👀-> Feb22 - build evidence Lex Fridman virtual assist. Update! made 2nd level on 2/4. Send love  🌱✨✨  
+-- 👀-> Feb22 - build evidence Lex Fridman virtual assist.Update!made 2nd level 2/4. Send love  🌱✨✨  
 -- 👀-> Feb22 - Guess what? Hired Adjunct Professor Computer Science SNHU. Near work ! 
 ----------------------------------------------------------------------------------------------------
 
