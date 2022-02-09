@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------------------------------------
 -- 👀-> build evidence Lex Fridman virtual assist.Update!made 2nd level 2/4.Send love🌱✨
 -- 👀-> Feb22 -Guess what? Hired Adjunct Professor Computer Science SNHU.
+-- Thankyou, kindness, and love to all who have supported. I will pay forward. Best Brian
 ----------------------------------------------------------------------------------------------------
 
 - LEXisms  
