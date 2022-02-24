@@ -1,3 +1,13 @@
+
+--------------------------------------------------------------------------------------------------------------
+-- 👀-> 02/23/2044 - Interview with Sophy Ting @ LogicMonitor, hiring a data science person to help with tech writing
+terribly excited!
+-------------------> to prepare for engineering interview working thorugh Julien Simon Sagemaker book
+---------> really enjoyed his lectures when I was doing this last year on Twitch
+--> goto bbe2/logicmonitor for more on links i have for training
+-------------------------------------------------------------------------------
+
+
 - for a good time https://plato.stanford.edu/  
 
 -- 👀--> 2/20/2022 - > I’m currently learning ... bibiographic methods for storage of research article findings and narrative building
