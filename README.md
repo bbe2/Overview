@@ -1,15 +1,16 @@
 
 --------------------------------------------------------------------------------------------------------------
--- 👀-> 02/23/2044 - Interview with Sophy Ting @ LogicMonitor, data science tech writing
-terribly excited!
----------------> to prepare for engineering interview working thorugh Julien Simon Sagemaker book
---> see outcomes in bbe2/logicmonitor for more on links i have for training
+-- 👀-> 02/23/2044 - Interview with Sophy Ting @ LogicMonitor, data science tech writing  
+terribly excited!  
+---------------> to prepare for engineering interview working thorugh Julien Simon Sagemaker book  
+--> see outcomes https://github.com/bbe2/LogicMonitor_Interview
 
-
-
+---------------------------
 - for a good time https://plato.stanford.edu/  
+- --------------------------------------------------  
 
--- 👀--> 2/20/2022 - > I’m currently learning ... bibiographic methods for storage of research article findings and narrative building
+-- 👀--> 2/20/2022 - > I’m currently learning ... bibiographic methods for research article storage and narrative building  
+----------------------------> Dr. Single, https://www.youtube.com/watch?v=1XxmPptCo30 demystifying dissertation writing (book better)  
 
 
 ----------------------------BASELINE -----------------------------------
@@ -33,7 +34,6 @@ terribly excited!
 
 -- 👀--> I’m currently finishing ... REDcap! doing a nursing research project  <---------------Completed 2/15/2022 - will get final results updated shortly
 --------------------------> update increased purposeful hourly rounding compliance 10%, discovered issues in truth communication and call bells
-
 -----------------------------------------------
 
 --------------------------------------------------------------------------------------------------------------
