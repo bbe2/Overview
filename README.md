@@ -34,10 +34,7 @@
 -   --   is it more concerning for the lobster to be boiled or for lobster to be exploded with an m80  
 -     --   how important is spice in the dish you are making  
 -    --    hunger, anything but hunger  
--- >   
--- >                                   beauty is an absence of things otherwise consuming your attention   
--- > -----------------------------------------------------        (lex said "..that take up ur attention  
--- >  
+-- >                                   beauty is an absence of things otherwise consuming your attention    
 -    --   there is something amazing about eating a small morcil of chocolate after a 40 day fast   
 -    --  ponder the nth of the ride, truly fear death may give deeper meaning and urgency for the moment  
 -  --    3 most important things, safety/security, data privacy, health (harvard blood labs + athletic greens (great stuff)   
