@@ -33,11 +33,10 @@
 - - -reason is a slave of the passions - D. Hume  
 -   --   is it more concerning for the lobster to be boiled or for lobster to be exploded with an m80  
 -     --   how important is spice in the dish you are making  
--    --      as long as man has been able to draw, a dickpick has been somewhere (elon) (sorry if crass)  
 -    --    hunger, anything but hunger  
 -- >   
 -- >                                   beauty is an absence of things otherwise consuming your attention   
--- >                                                              (lex said "..that take up ur attention  
+-- > -----------------------------------------------------        (lex said "..that take up ur attention  
 -- >  
 -    --   there is something amazing about eating a small morcil of chocolate after a 40 day fast   
 -    --  ponder the nth of the ride, truly fear death may give deeper meaning and urgency for the moment  
