@@ -48,13 +48,9 @@
 -- 👀--> Finished ... REDcap! doing a nursing research project  <---------------Completed 2/15/2022 - will get final results updated shortly update increased purposeful hourly rounding compliance 10%, discovered issues in truth communication and call bell  
 
 -- 👀-> Feb22 Daily musings.
--- important to take stock in daily growth. Dr. Single wrote <demystifying the dissertation> terribly important to have a slogan of focus for elevator talk  
-  -- phase 0 to catch - thinking Infotech theory expansion using horror literature to discern the real and distend the social  
+-- Dr. Single wrote <demystifying the dissertation> terribly important to have a slogan of focus for elevator talk  
+-- Horror & Infotech theory expansion using horror literature to discern the real and distend the social. 
+ -->
+ --Lovecraft corpus consolidation commencing
 
   
-  
-  
-  
-  
-- 📫 information layer with NSA encryption...  
-  --brian [d-o-t] p  [dd-oo-tt ]  hogan [ AT } alumni [ddd-ooo-ttt ] harvard { dddd-oooo-tttt } UDE (reverse prior 3 {  
