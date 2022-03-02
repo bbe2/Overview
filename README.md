@@ -39,5 +39,5 @@
   
   
   
-- 📫 information network layer with NSA encryption... 
+- 📫 information layer with NSA encryption... 
   --brian [d-o-t] p  [dd-oo-tt ]  hogan [ AT } alumni [ddd-ooo-ttt ] harvard { dddd-oooo-tttt } UDE (reverse prior 3 {  
