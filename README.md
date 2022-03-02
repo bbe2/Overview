@@ -23,11 +23,11 @@
 -- 👀- 👀-- 👀- 👀- ...> Investigate new social paradigms, mechanisms of influence, simulacrum structures, and nascent indicators  
 
 -- 👀--👀-> ROLE MODELS -> Leanrning Salon, F. Chollet (google-, Ida Momennejad + John Langford (MSFT), A. Kroker, David Chalmers  
-- 👀 
--👀 
---------------------------- > Chollet 'on the measure of intelligence' is pretty amazing and highly recommend
+-- 👀  
+-👀  
+--------------------------- > Chollet 'on the measure of intelligence' is pretty amazing and highly recommend  
 
--- Major Lex Fridman Fan
+-- Major Lex Fridman Fan  
 - LEXisms  
 - it would be beautiful to see a nexus of brainwave transmissions  
 -  Need to expand understanding and scope of consciousness   
@@ -45,10 +45,10 @@
 -  
 -- 👀--> Finished ... REDcap! doing a nursing research project  <---------------Completed 2/15/2022 - will get final results updated shortly update increased purposeful hourly rounding compliance 10%, discovered issues in truth communication and call bell  
 
--- 👀-> Feb22 Daily musings.
+-- 👀-> Feb22 Daily musings  
 -- Dr. Single wrote <demystifying the dissertation> terribly important to have a slogan of focus for elevator talk  
--- Horror & Infotech theory expansion using horror literature to discern the real and distend the social. 
- -->
- --Lovecraft corpus consolidation commencing
+-- Horror & Infotech theory expansion using horror literature to discern the real and distend the social.  
+ -->  
+ --Lovecraft corpus consolidation commencing  
 
   
