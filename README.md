@@ -8,7 +8,7 @@
 --------------------------------------------------
 - 👋 Hi, I’m bbe  - technical writer, research enthuasiat, robust data science training, love statitics Go CUSE !
 
-- 👀 I’m interested in ... advancing health equity for marginalized youth + advance life committment to learning through tech 
+- 👀 I’m interested in ... advancing health equity for marginalized youth + expanding life learning and skills through tech 
 
 -- 👀- 👀  Adept building ontologies, informed with scientific research, to frame analysis + translate into structures  
 
