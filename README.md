@@ -6,7 +6,7 @@
 ----------------------------> Dr. Single, https://www.youtube.com/watch?v=1XxmPptCo30 demystifying dissertation writing (book better)  
 
 
-----------------------------BASELINE -----------------------------------
+--------------------------------------------------
 - 👋 Hi, I’m bbe  - technical writer, research enthuasiat, robust data science training, love statitics Go CUSE !
 
 - 👀 I’m interested in ... advancing health equity for marginalized youth + advance life committment to learning through tech 
@@ -25,11 +25,10 @@
 
 -- 👀- 👀--> Role models -> Leanrning Salon, Feep practical re-engineering w complex machine + operations improvement, BOMs, prod goals . Chollet, Chalmers,D. , Baudrillard, J., Ida Momennejad + John Langford (MSFT)  
 
+-----------------------------------------------
 -- 👀--> Finished ... REDcap! doing a nursing research project  <---------------Completed 2/15/2022 - will get final results updated shortly
 --------------------------> update increased purposeful hourly rounding compliance 10%, discovered issues in truth communication and call bells
-
 --------------------------------------------------------------------------------------------------------------
--- 👀-> Feb22 -Guess what? Hired Adjunct Professor Computer Science SNHU.
 
 -- 👀-> Feb22 Daily musings.
 -- important to take stock in daily growth. Dr. Single wrote <demystifying the dissertation> terribly important to have a slogan of focus for elevator talk
