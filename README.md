@@ -31,8 +31,8 @@
 - LEXisms  
 - >>it would be beautiful to see a nexus of brainwave transmissions  
 -  >>>>Need to expand understanding and scope of consciousness   
-- -- >>>> >>>> >>>>beauty will save the world - Dostoevsky   
-- >>>>reason is a slave of the passions - D. Hume  
+- -- >>>> >>>> beauty will save the world - Dostoevsky   
+- >>>> reason is a slave of the passions - D. Hume  
 
 -- 👀-   is it more concerning for the lobster to be boiled or for lobster to be exploded with an m80  
 -- 👀- �  how import>>>>ant is spice in the dish you are making  
