@@ -1,10 +1,3 @@
-
---------------------------------------------------------------------------------------------------------------
--- 👀-> 02/23/2044 - Interview with Sophy Ting @ LogicMonitor, data science tech writing  
-terribly excited!  
----------------> to prepare for engineering interview working thorugh Julien Simon Sagemaker book  
---> see outcomes https://github.com/bbe2/LogicMonitor_Interview
-
 ---------------------------
 - for a good time https://plato.stanford.edu/  
 - --------------------------------------------------  
@@ -42,12 +35,6 @@ terribly excited!
 -- important to take stock in daily growth. Dr. Single wrote <demystifying the dissertation> terribly important to have a slogan of focus for elevator talk
   -- phase 0 to catch - thinking Infotech theory expansion using horror literature to discern the real and distend the social
 
-  
-  
-  
-  
-  
-  
   
   
   
