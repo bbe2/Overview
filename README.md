@@ -23,12 +23,11 @@
 
 -- 👀- 👀-- 👀- 👀- ...> Investigate new social paradigms, mechanisms of influence, simulacrum structures, and nascent indicators  
 
--- 👀- 👀--> Role models -> Leanrning Salon, Feep practical re-engineering w complex machine + operations improvement, BOMs, prod goals . Chollet, Chalmers,D. , Baudrillard, J., Ida Momennejad + John Langford (MSFT)  
+-- 👀- 👀--> Role models -> Leanrning Salon, Feep practical re-engineering w complex machine + operations improvement, BOMs, prod goals . Chollet, Chalmers,D. , Baudrillard, J., Ida Momennejad + John Langford (MSFT) 
 
 -----------------------------------------------
--- 👀--> Finished ... REDcap! doing a nursing research project  <---------------Completed 2/15/2022 - will get final results updated shortly
---------------------------> update increased purposeful hourly rounding compliance 10%, discovered issues in truth communication and call bells
---------------------------------------------------------------------------------------------------------------
+
+-- 👀--> Finished ... REDcap! doing a nursing research project  <---------------Completed 2/15/2022 - will get final results updated shortly update increased purposeful hourly rounding compliance 10%, discovered issues in truth communication and call bell
 
 -- 👀-> Feb22 Daily musings.
 -- important to take stock in daily growth. Dr. Single wrote <demystifying the dissertation> terribly important to have a slogan of focus for elevator talk
