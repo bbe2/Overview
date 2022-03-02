@@ -3,8 +3,7 @@
 - --------------------------------------------------  
 
 -- 👀--> 2/20/2022 - > I’m currently learning ... bibiographic methods for research article storage and narrative building  
-----------------------------> Dr. Single, https://www.youtube.com/watch?v=1XxmPptCo30 demystifying dissertation writing (book better)  
-
+----> Dr. Single, https://www.youtube.com/watch?v=1XxmPptCo30 demystifying dissertation writing (book better than video)  
 
 --------------------------------------------------
 - 👋 Hi, I’m bbe  - technical writer, research enthuasiat, robust data science training, love statitics Go CUSE !
@@ -23,8 +22,10 @@
 
 -- 👀- 👀-- 👀- 👀- ...> Investigate new social paradigms, mechanisms of influence, simulacrum structures, and nascent indicators  
 
--- 👀- 👀--> Role models -> Leanrning Salon, Feep practical re-engineering w complex machine + operations improvement, BOMs, prod goals . Chollet, Chalmers,D. , Baudrillard, J., Ida Momennejad + John Langford (MSFT) 
+-- 👀--> ROLE MODELS -> Leanrning Salon, Feep practical re-engineering w complex machine + operations improvement, BOMs, prod goals . Chollet, Chalmers,D. , Baudrillard, J., Ida Momennejad + John Langford (MSFT) 
+--Arthur Kroker, David Chalmers, Lex Fridman, 
 
+-- Major Lex Fridman Fan
 -----------------------------------------------
 
 -- 👀--> Finished ... REDcap! doing a nursing research project  <---------------Completed 2/15/2022 - will get final results updated shortly update increased purposeful hourly rounding compliance 10%, discovered issues in truth communication and call bell
