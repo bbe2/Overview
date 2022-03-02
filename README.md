@@ -22,12 +22,11 @@
 
 -- 👀- 👀-- 👀- 👀- ...> Investigate new social paradigms, mechanisms of influence, simulacrum structures, and nascent indicators  
 
--- 👀--👀-> ROLE MODELS -> Leanrning Salon, F. Chollet (google-, Ida Momennejad + John Langford (MSFT), A. Kroker, David Chalmers
---                         > Chollet 'on the measure of intelligence' is pretty amazing and highly recommend
+-- 👀--👀-> ROLE MODELS -> Leanrning Salon, F. Chollet (google-, Ida Momennejad + John Langford (MSFT), A. Kroker, David Chalmers  
+--------------------------- > Chollet 'on the measure of intelligence' is pretty amazing and highly recommend
 
 -- Major Lex Fridman Fan
 - LEXisms  
-----------------------------------------------------------  
 - it would be beautiful to see a nexus of brainwave transmissions  
 -  Need to expand understanding and scope of consciousness   
 - -- beauty will save the world - Dostoevsky   
