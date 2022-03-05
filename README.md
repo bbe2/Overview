@@ -5,9 +5,9 @@ today is: Symbolic behavior in AI - deepmind, santoro,a., lampinen, a., matthews
 potential of symbols as a pathway towards computer meaning,  
 the company DeepMind is going deep for sure... see blog  
 https://arxiv.org/pdf/2102.03406.pdf  
---
+-
+-
 
----------------------------
 - for a good time https://plato.stanford.edu/  
 - --------------------------------------------------  
 
