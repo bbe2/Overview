@@ -1,6 +1,8 @@
 
 - March 5th - NEW - have been a daily blog based on reading a scientific journal article  
-today is: Symbolic behavior in AI - deepmind, santoro,a., lampinen, a., matthewson, k., lillicrap, t., raposo, d.,  
+today is: 
+
+Symbolic behavior in AI - deepmind, santoro,a., lampinen, a., matthewson, k., lillicrap, t., raposo, d.,  
  exploring use of symbols, constructure, embedded, malleable, meaningful, grading  
 potential of symbols as a pathway towards computer meaning,  
 the company DeepMind is going deep for sure... see blog  
