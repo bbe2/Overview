@@ -15,7 +15,7 @@ https://arxiv.org/pdf/2102.03406.pdf
 ----> Dr. Single, https://www.youtube.com/watch?v=1XxmPptCo30 demystifying dissertation writing (book better than video)  
 
 --------------------------------------------------
-- 👋 Hi, I’m bbe  - technical writer, research enthuasiat, robust data science training, love statitics Go CUSE !
+- 👋 Hi, I’m bbe  - technical writer, research enthuasiat, robust data science training, value statitics and R
 
 - 👀 I’m interested in ... advancing health equity for marginalized youth + expanding life learning and skills through tech 
 
@@ -24,6 +24,8 @@ https://arxiv.org/pdf/2102.03406.pdf
 -- 👀- 👀-  👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense  ✨✨  
 
 -- 👀- 👀-- 👀- 👀 ---> deep practical re-engineering w complex machine + operations improvement, BOMs, prod goals ✨✨  
+
+-- 👀- 👀-- 👀- 👀 ---> software design and development for project portfolio, clinical trial, and agnostic programming ✨✨  
 
 -- 👀- 👀-- 👀- 👀- ----> write, edit user manuals, complex user requirements, data diagraming, white papers, sow  
 
