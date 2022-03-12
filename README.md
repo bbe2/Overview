@@ -1,17 +1,26 @@
+ - weekly blog on interesting research papers  
 
-- March 5th - NEW - have been a daily blog based on reading a scientific journal article  
-today is: 
+- 3/12  
+- A neural programming language for the reservoir computer, KimJ, BassettD  
+- use of RNN and programming Ping Pong  
 
-Symbolic behavior in AI - deepmind, santoro,a., lampinen, a., matthewson, k., lillicrap, t., raposo, d.,  
- exploring use of symbols, constructure, embedded, malleable, meaningful, grading  
-potential of symbols as a pathway towards computer meaning,  
-the company DeepMind is going deep for sure... see blog  
-https://arxiv.org/pdf/2102.03406.pdf  
+- notes soon but model is using 'symbolic inputs' as the computation data. this is what deepmind has been talking about  
+- terribly important to understand capture, classification, and what tools used to process  
+
+https://arxiv.org/pdf/2203.05032.pdf  
+
+
+-3/5  
+-Symbolic behavior in AI - deepmind, santoro,a., lampinen, a., matthewson, k., lillicrap, t., raposo, d.,  
+-exploring use of symbols, constructure, embedded, malleable, meaningful, grading  
+-potential of symbols as a pathway towards computer meaning,  
+-the company DeepMind is going deep for sure... see blog  
+-https://arxiv.org/pdf/2102.03406.pdf  
 -
 -
 
 - for a good time https://plato.stanford.edu/  
-- --------------------------------------------------  
+
 
 -- 👀--> 2/20/2022 - > I’m currently learning ... bibiographic methods for research article storage and narrative building  
 ----> Dr. Single, https://www.youtube.com/watch?v=1XxmPptCo30 demystifying dissertation writing (book better than video)  
