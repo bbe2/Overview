@@ -2,21 +2,21 @@
 
 3/12  
 -TITLE ==> A neural programming language for the reservoir computer, KimJ, BassettD  
--whipquip - > use of RNN and programming Ping Pong  
+--whip-a-QUIP - > use of RNN and programming Ping Pong  
 -https://arxiv.org/pdf/2203.05032.pdf  
 
--  
 - ...notes soon but model is using 'symbolic inputs' as the computation data. this is what deepmind has been talking about  
 - terribly important to understand capture, classification, and what tools used to process  
 
 3/5  
 -Symbolic behavior in AI - deepmind, santoro,a., lampinen, a., matthewson, k., lillicrap, t., raposo, d.,  
--exploring use of symbols, constructure, embedded, malleable, meaningful, grading  
+-whip-a-QUIP => exploring use of symbols, constructure, embedded, malleable, meaningful, grading  
+-https://arxiv.org/pdf/2102.03406.pdf 
 -potential of symbols as a pathway towards computer meaning,  
 -the company DeepMind is going deep for sure... see blog  
 -->>>>>>>>>>>>>>>>>>>>>>>>>>>>  
 
--https://arxiv.org/pdf/2102.03406.pdf  
+ 
 -  
 -  
 
