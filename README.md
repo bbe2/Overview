@@ -15,6 +15,8 @@ https://arxiv.org/pdf/2203.05032.pdf
 -exploring use of symbols, constructure, embedded, malleable, meaningful, grading  
 -potential of symbols as a pathway towards computer meaning,  
 -the company DeepMind is going deep for sure... see blog  
+-->>>>>>>>>>>>>>>>>>>>>>>>>>>>  
+
 -https://arxiv.org/pdf/2102.03406.pdf  
 -
 -
