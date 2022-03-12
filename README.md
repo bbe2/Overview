@@ -3,12 +3,10 @@
 - 3/12  
 - A neural programming language for the reservoir computer, KimJ, BassettD  
 - use of RNN and programming Ping Pong  
-
 - notes soon but model is using 'symbolic inputs' as the computation data. this is what deepmind has been talking about  
 - terribly important to understand capture, classification, and what tools used to process  
 
 https://arxiv.org/pdf/2203.05032.pdf  
-
 
 -3/5  
 -Symbolic behavior in AI - deepmind, santoro,a., lampinen, a., matthewson, k., lillicrap, t., raposo, d.,  
@@ -18,8 +16,8 @@ https://arxiv.org/pdf/2203.05032.pdf
 -->>>>>>>>>>>>>>>>>>>>>>>>>>>>  
 
 -https://arxiv.org/pdf/2102.03406.pdf  
--
--
+-  
+-  
 
 - for a good time https://plato.stanford.edu/  
 
