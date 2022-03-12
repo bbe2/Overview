@@ -1,9 +1,10 @@
  - weekly blog on interesting research papers  
 
 - 3/12  
-- A neural programming language for the reservoir computer, KimJ, BassettD  
-- use of RNN and programming Ping Pong  
-- notes soon but model is using 'symbolic inputs' as the computation data. this is what deepmind has been talking about  
+- TITLE ==> A neural programming language for the reservoir computer, KimJ, BassettD  
+- whipquip - > use of RNN and programming Ping Pong  
+-  
+- ..notes soon but model is using 'symbolic inputs' as the computation data. this is what deepmind has been talking about  
 - terribly important to understand capture, classification, and what tools used to process  
 
 https://arxiv.org/pdf/2203.05032.pdf  
