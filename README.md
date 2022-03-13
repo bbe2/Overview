@@ -1,3 +1,5 @@
+ - What's Hot folder = see latest with G-W-G :)
+ 
  - weekly blog on interesting research papers  
 
 3/12  
@@ -16,10 +18,6 @@
 -the company DeepMind is going deep for sure... see blog  
 -->>>>>>>>>>>>>>>>>>>>>>>>>>>>  
 
- 
--  
--  
-
 - >>>> >>>> for a good time https://plato.stanford.edu/  ---> really like lecture on substance https://plato.stanford.edu/entries/substance/  
 
 
@@ -27,7 +25,9 @@
 ----> Dr. Single, https://www.youtube.com/watch?v=1XxmPptCo30 demystifying dissertation writing (book better than video)  
 
 --
-- 👋 Hi, I’m bbe  - technical writer, research enthuasiat, robust data science training, value statitics and R
+- 👋 Hi, I’m bbe adjunct instructor computer science
+- 
+- 👀  technical writer, research enthuasiat, robust data science training, value ongoing training in R
 
 - 👀 I’m interested in ... advancing health equity for marginalized youth + expanding life learning and skills through tech 
 
