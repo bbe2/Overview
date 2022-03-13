@@ -20,7 +20,7 @@
 -  
 -  
 
-- for a good time https://plato.stanford.edu/  
+- for a good time https://plato.stanford.edu/  ---> really like lecture on substance https://plato.stanford.edu/entries/substance/  
 
 
 -- 👀--> 2/20/2022 - > I’m currently learning ... bibiographic methods for research article storage and narrative building  
