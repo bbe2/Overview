@@ -24,9 +24,9 @@
 -- 👀--> 2/20/2022 - > I’m currently learning ... bibiographic methods for research article storage and narrative building  
 ----> Dr. Single, https://www.youtube.com/watch?v=1XxmPptCo30 demystifying dissertation writing (book better than video)  
 
---
+
 - 👋 Hi, I’m bbe adjunct instructor computer science
-- 
+
 - 👀  technical writer, research enthuasiat, robust data science training, value ongoing training in R
 
 - 👀 I’m interested in ... advancing health equity for marginalized youth + expanding life learning and skills through tech 
