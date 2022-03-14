@@ -1,4 +1,4 @@
- - What's Hot folder = see latest with G-W-G :)
+ - What's Hot ? see work fo Grow with Google 3/14/22
  
  - weekly blog on interesting research papers  
 
