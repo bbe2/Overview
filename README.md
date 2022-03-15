@@ -1,4 +1,4 @@
- - What's Hot ? see work fo Grow with Google 3/14/22
+ - What's Hot ? see Grow with Google Repository
  
  - weekly blog on interesting research papers  
 
