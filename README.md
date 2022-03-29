@@ -1,5 +1,3 @@
- - What's Hot ? see Grow with Google Repository
- 
  - weekly blog on interesting research papers  
 
 3/12  
