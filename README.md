@@ -4,9 +4,11 @@
 
 - 👋 Hi, I’m bbe adjunct instructor computer science
 
-- 👀  technical writer, research enthuasiat, robust data science training, value ongoing training in R
+- 👀  content and technical writer, research enthuasiat, robust data science training, value ongoing training in R
 
 - 👀 I’m interested in ... advancing health equity for marginalized youth + expanding life learning and skills through tech 
+- I have helped over 20 individuals personally through coaching and tutoring with one who got their GED  
+- my goal is to work on a platform facilitating the training of many more as 1-on-1 work gratifying but would liek to reach more people  
 
 -- 👀- 👀  Adept building ontologies, informed with scientific research, to frame analysis + translate into structures  
 
@@ -52,8 +54,3 @@
  -->  
  - >>>>Lovecraft corpus consolidation commencing  
 
-  
- 
-
--- 👀--> 2/20/2022 - > I’m currently learning ... bibiographic methods for research article storage and narrative building  
-----> Dr. Single, https://www.youtube.com/watch?v=1XxmPptCo30 demystifying dissertation writing (book better than video)  
