@@ -9,7 +9,9 @@
 - 👋👋👋       ... changing the world as we know it.    
 - 👋👋  I am very grateful to be part of this team  
 - 👋  and terribly excited to illustrate my skills and help youth build sustainability in their family  
-
+- 👋  
+- 👋  
+- 👋  
 
 - 👋�   me? content and technical writer, adjunct instructor, research enthuasiat  
 - 👋👋   robust data science training, value ongoing training in R  
