@@ -2,10 +2,12 @@
 - >>>> for a good time https://plato.stanford.edu/  ---> really like lecture on substance https://plato.stanford.edu/entries/substance/  
 --
 
-- 👋 Hi, I’m bbe adjunct instructor computer science
-- 👋 in 2Q22 I began proving myself as a content writer for a large company interested in both mindfully and meaningfully  
-- changing the world as we know it. I am very grateful for this opportunity to expedite the use of honing skill sets  
-
+- 👋 Hi, I’m bbe adjunct instructor computer science  
+- 👋 in 2Q22 I began proving myself as a content writer for a large company interested in both mindfully and meaningfully   
+- 👋👋👋changing the world as we know it. I am very grateful for this opportunity to illustrate and further hone my skill sets   
+- 👋👋  
+- 👋  
+- 
 - 👀  content and technical writer, research enthuasiat, robust data science training, value ongoing training in R
 
 - 👀 I’m interested in ... advancing health equity for marginalized youth + expanding life learning and skills through tech 
