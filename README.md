@@ -3,13 +3,14 @@
 --
 
 - 👋 Hi, I’m bbe adjunct instructor computer science  
-- 👋 in 2Q22 I began proving myself as a content writer for a large company 
-- 👋👋👋       interested in mindfully and meaningfully   
-- 👋👋👋        changing the world as we know it.    
-- 👋👋  I am very grateful for this opportunity and chance  
-- 👋  to illustrate and further hone my skill sets 
+- 👋 in 2Q22 I began proving myself as a content writer for a large company interested   
+- 👋👋👋       ... in mindfully and meaningfully  
+- 👋👋👋       ... changing the world as we know it.    
+- 👋👋  I am very grateful to be part of this team  
+- 👋  and terribly excited to illustrate my skills and help youth build sustainability in their family  
 - 
-- 👀  content and technical writer, research enthuasiat, robust data science training, value ongoing training in R
+- 👀  me? content and technical writer, research enthuasiat, robust data science training, value ongoing training in R
+- 👀  me? building deep evidence and paradigm for a terminal degree  
 
 - 👀 I’m interested in ... advancing health equity for marginalized youth + expanding life learning and skills through tech 
 - I have helped over 20 individuals personally through coaching and tutoring with one who got their GED  
