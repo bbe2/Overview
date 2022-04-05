@@ -1,13 +1,5 @@
- - emsure to see weekly blog on interesting research papers with quick summary 
-
-
--->>>>>>>>>>>>>>>>>>>>>>>>>>>>  
-
+- >>>> >>>> emsure to see weekly blog in 2022 adjunct instructor folder 
 - >>>> >>>> for a good time https://plato.stanford.edu/  ---> really like lecture on substance https://plato.stanford.edu/entries/substance/  
-
-
--- 👀--> 2/20/2022 - > I’m currently learning ... bibiographic methods for research article storage and narrative building  
-----> Dr. Single, https://www.youtube.com/watch?v=1XxmPptCo30 demystifying dissertation writing (book better than video)  
 
 
 - 👋 Hi, I’m bbe adjunct instructor computer science
@@ -61,3 +53,7 @@
  - >>>>Lovecraft corpus consolidation commencing  
 
   
+ 
+
+-- 👀--> 2/20/2022 - > I’m currently learning ... bibiographic methods for research article storage and narrative building  
+----> Dr. Single, https://www.youtube.com/watch?v=1XxmPptCo30 demystifying dissertation writing (book better than video)  
