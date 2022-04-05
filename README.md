@@ -53,12 +53,4 @@
 -- 👀- 👀✨---->  3 most important things, safety/security, data privacy, health (harvard blood labs + athletic greens (great stuff)   
 -- 👀 --man was created by water to carry himself uphill  
 
--- 👀--> Finished ... REDcap! doing a nursing research project  <-------Completed 2/15/2022
--- purposeful hourly rounding helped find a new fall prevention factor associated with call bell monitor. now being monitored
-
--- 👀-> Feb22 Daily musings  
--- Dr. Single wrote <demystifying the dissertation> terribly important to have a slogan of focus for elevator talk  
--- Horror & Infotech theory expansion using horror literature to discern the real and distend the social.  
- -->  
  - >>>>Lovecraft corpus consolidation commencing  
-
