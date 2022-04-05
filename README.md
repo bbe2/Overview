@@ -9,13 +9,14 @@
 - 👋👋👋       ... changing the world as we know it.    
 - 👋👋  I am very grateful to be part of this team  
 - 👋  and terribly excited to illustrate my skills and help youth build sustainability in their family  
-- 
-- 👀  me? content and technical writer, research enthuasiat, robust data science training, value ongoing training in R
-- 👀  me? building deep evidence and paradigm for a terminal degree  
 
-- 👀 I’m interested in ... advancing health equity for marginalized youth + expanding life learning and skills through tech 
-- I have helped over 20 individuals personally through coaching and tutoring with one who got their GED  
-- my goal is to work on a platform facilitating the training of many more as 1-on-1 work gratifying but would liek to reach more people  
+
+- 👋�   me? content and technical writer, adjunct instructor, research enthuasiat  
+- 👋👋   robust data science training, value ongoing training in R  
+- 👋👋👋  me? building deep evidence and paradigm for a terminal degree  
+- 👋👋 I’m interested in ... advancing health equity for marginalized youth + expanding life skills w tech  
+- 👋 I have helped over 20 individuals personally through coaching and tutoring with one who got their GED  
+- 👋 my goal remains training larger groups of students vs 1-on-1 as the world needs programmers  
 
 -- 👀- 👀  Adept building ontologies, informed with scientific research, to frame analysis + translate into structures  
 -- 👀- 👀-  👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense  ✨✨  
