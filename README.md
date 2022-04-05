@@ -1,5 +1,5 @@
-- >>>> >>>> emsure to see weekly blog in 2022 adjunct instructor folder 
-- >>>> >>>> for a good time https://plato.stanford.edu/  ---> really like lecture on substance https://plato.stanford.edu/entries/substance/  
+- >>>> emsure to see weekly blog in 2022 adjunct instructor folder 
+- >>>> for a good time https://plato.stanford.edu/  ---> really like lecture on substance https://plato.stanford.edu/entries/substance/  
 
 
 - 👋 Hi, I’m bbe adjunct instructor computer science
