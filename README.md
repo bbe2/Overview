@@ -12,36 +12,31 @@
 - 👋                             youth build family sustainability   
 - 👋  
 - 👋  
-
 - 👋�   me? content and technical writer, adjunct instructor, research enthuasiat  
 - 👋👋   robust data science training, value ongoing training in R  
 - 👋👋👋  me? building deep evidence and paradigm for a terminal degree  
 - 👋👋 I’m interested in ... advancing health equity for marginalized youth + expanding life skills w tech  
 - 👋 I have helped over 20 individuals personally through coaching and tutoring with one who got their GED  
 - 👋 my goal remains training larger groups of students vs 1-on-1 as the world needs programmers  
--- 👀-
--- 👀-
--- 👀-
--- 👀-
-
+-- 👀-  
+-- 👀-  
+-- 👀-  
+-- 👀-  
 -- 👀- 👀  Adept building ontologies, informed with scientific research, to frame analysis + translate into structures  
 -- 👀- 👀-  👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense  ✨✨  
-
 -- 👀- 👀-- 👀- 👀 ---> deep practical re-engineering w complex machine + operations improvement, BOMs, prod goals ✨✨  
-
 -- 👀- 👀-- 👀- 👀 ---> software design and development for project portfolio, clinical trial, and agnostic programming ✨✨  
-
 -- 👀- 👀-- 👀- 👀- ----> write, edit user manuals, complex user requirements, data diagraming, white papers, sow  
-
 -- 👀- 👀-- 👀-- 👀- 👀✨----> training and developing staff to reach their potential  
-
 -- 👀- 👀-- 👀- 👀- ...> Investigate new social paradigms, mechanisms of influence, simulacrum structures, and nascent indicators  
-
 -- 👀--👀-> ROLE MODELS -> Leanrning Salon, F. Chollet (google-, Ida Momennejad + John Langford (MSFT), A. Kroker, David Chalmers  
--- 👀  
+-- 👀   
 -👀  
 --------------------------- > Chollet 'on the measure of intelligence' is pretty amazing and highly recommend  
-
+-👀  
+-👀  
+-👀  
+-👀  
 -- Major Lex Fridman Fan  
 - LEXisms  
 - >>it would be beautiful to see a nexus of brainwave transmissions  
