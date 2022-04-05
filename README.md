@@ -5,11 +5,11 @@
 - 👋
 - 👋 Hi, I’m bbe adjunct instructor computer science  
 - 👋 👋in 2Q22 I began proving myself as a content writer for a large company interested   
-- 👋👋👋       ... in mindfully and meaningfully  
-- 👋👋👋       ... changing the world as we know it.    
+- 👋👋👋... in mindfully and meaningfully  
+- 👋👋👋                        ... changing the world as we know it.    
 - 👋👋  I am very grateful to be part of this team  
-- 👋  and terribly excited to illustrate my skills and help youth build sustainability in their family  
-- 👋  
+- 👋  and terribly excited to illustrate my skills and help  
+- 👋                             youth build family sustainability   
 - 👋  
 - 👋  
 
