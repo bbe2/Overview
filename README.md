@@ -19,6 +19,10 @@
 - 👋👋 I’m interested in ... advancing health equity for marginalized youth + expanding life skills w tech  
 - 👋 I have helped over 20 individuals personally through coaching and tutoring with one who got their GED  
 - 👋 my goal remains training larger groups of students vs 1-on-1 as the world needs programmers  
+-- 👀-
+-- 👀-
+-- 👀-
+-- 👀-
 
 -- 👀- 👀  Adept building ontologies, informed with scientific research, to frame analysis + translate into structures  
 -- 👀- 👀-  👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense  ✨✨  
