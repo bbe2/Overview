@@ -1,9 +1,9 @@
 - >>>> emsure to see weekly blog in 2022 adjunct instructor folder 
 - >>>> for a good time https://plato.stanford.edu/  ---> really like lecture on substance https://plato.stanford.edu/entries/substance/  
---
 
+- 👋
 - 👋 Hi, I’m bbe adjunct instructor computer science  
-- 👋 in 2Q22 I began proving myself as a content writer for a large company interested   
+- 👋 👋in 2Q22 I began proving myself as a content writer for a large company interested   
 - 👋👋👋       ... in mindfully and meaningfully  
 - 👋👋👋       ... changing the world as we know it.    
 - 👋👋  I am very grateful to be part of this team  
