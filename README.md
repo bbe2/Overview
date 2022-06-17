@@ -1,20 +1,13 @@
-- >>>> emsure to see weekly blog in 2022 adjunct instructor folder 
-- >>>> for a good time https://plato.stanford.edu/  
-- >>>> really like lecture on substance https://plato.stanford.edu/entries/substance/  
-
+- >>>> for a good time https://plato.stanford.edu/  really like lecture on substance https://plato.stanford.edu/entries/substance/  
 - 👋
-- 👋 Hi, I’m bbe adjunct instructor computer science  
-- 👋 👋in 2Q22 I began work on into to python as part of a new advanced data analysis course for coursera
-- 👋    working with amazing people ana leanring a lot!
-- 👋  
-- 👋�   me? content and technical writer, adjunct instructor, research enthuasiat  
-- 👋👋   robust data science training, value ongoing training in R  
-- 👋👋👋  me? building deep evidence and paradigm for a terminal degree  
-- 👋👋 I’m interested in ... advancing health equity for marginalized youth + expanding life skills w tech  
-- 👋 I have helped over 20 individuals personally through coaching and tutoring with one who got their GED  
+- 👋 Hi, I’m bbe adjunct computer science, curriculum writer jr data scientist. Thank you for stopping by!
+- 👋 👋 in 2Q22 began work w amazing people building data science coursera course for lg tech comp, im writing python 101 course
+- 👋
+- 👋👋👋    building deep evidence and paradigm for my terminal degree  
+- 
+- 👋👋 interested in ... advancing health equity for marginalized youth + expanding life skills w tech  
+- 👋  have helped over 20 individuals personally through coaching and tutoring with one who got their GED  
 - 👋 my goal remains training larger groups of students vs 1-on-1 as the world needs programmers  
--- 👀-  
--- 👀-  
 -- 👀-  
 -- 👀-  
 -- 👀- 👀  Adept building ontologies, informed with scientific research, to frame analysis + translate into structures  
@@ -28,7 +21,6 @@
 -👀   
 -👀  
 --------------------------- > Chollet 'on the measure of intelligence' is pretty amazing and highly recommend  
--👀  
 -👀  
 -👀  
 -👀  
