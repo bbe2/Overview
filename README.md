@@ -5,9 +5,7 @@
 - 👋👋👋    building deep evidence and paradigm for my terminal degree  
 - 👋
 - 👋👋 interested in ... advancing marginalize youth skills to access their potential and make it so
-- 👋  have helped over 20 individuals personally through coaching and tutoring with one who got their GED  
-- 👋 my goal remains training larger groups of students vs 1-on-1 as the world needs programmers  
--- 👀-  
+- 👋  helped over 20 students coaching and tutoring to advance, one w GED: new GOAL develop as many new programmers as possible 
 -- 👀-  
 -- 👀- 👀  Adept building ontologies, informed with scientific research -- frame analysis + translate into structures  
 -- 👀- 👀-  👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense  ✨✨  
@@ -16,11 +14,9 @@
 -- 👀- 👀-- 👀- 👀- ----> write, edit user manuals, complex user requirements, complex data diagraming + trees
 -- 👀- 👀-- 👀-- 👀- 👀✨----> excellled training and developing staff to reach their potential  
 -- 👀- 👀-- 👀- 👀- 
--- 👀- 👀 
 -- 👀-> ROLE MODELS -> Leanrning Salon, F. Chollet, Ida Momennejad + John Langford (MSFT), A. Kroker, David Chalmers  
 -- 👀- 👀 
 --------------------------- > Chollet 'on the measure of intelligence' is pretty amazing and highly recommend  👀  
--👀  
 --
 -- 👀 Major LEX FRIDMAN fan - made it to last round of his 2021 hiring; only be 100% ready for any of his tests
 - LEXisms  
