@@ -2,30 +2,27 @@
 - 👋
 - 👋 Hi, I’m bbe adjunct computer science, curriculum writer jr data scientist. Thank you for stopping by!
 - 👋 👋 in 2Q22 began work w amazing people building data science coursera course for lg tech comp, im writing python 101 course
-- 👋
 - 👋👋👋    building deep evidence and paradigm for my terminal degree  
 - 👋
-- 👋👋 interested in ... advancing health equity for marginalized youth + expanding life skills w tech  
+- 👋👋 interested in ... advancing marginalize youth skills to access their potential and make it so
 - 👋  have helped over 20 individuals personally through coaching and tutoring with one who got their GED  
 - 👋 my goal remains training larger groups of students vs 1-on-1 as the world needs programmers  
 -- 👀-  
 -- 👀-  
--- 👀- 👀  Adept building ontologies, informed with scientific research, to frame analysis + translate into structures  
+-- 👀- 👀  Adept building ontologies, informed with scientific research -- frame analysis + translate into structures  
 -- 👀- 👀-  👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense  ✨✨  
--- 👀- 👀-- 👀- 👀 ---> deep practical re-engineering w complex machine + operations improvement, BOMs, prod goals ✨✨  
+-- 👀- 👀-- 👀- 👀 ---> deep practical re-engineering w complex machine + ops improvement, BOMs, target forecasting ✨✨  
 -- 👀- 👀-- 👀- 👀 ---> software design and development for project portfolio, clinical trial, and agnostic programming ✨✨  
--- 👀- 👀-- 👀- 👀- ----> write, edit user manuals, complex user requirements, data diagraming, white papers, sow  
--- 👀- 👀-- 👀-- 👀- 👀✨----> training and developing staff to reach their potential  
--- 👀- 👀-- 👀- 👀- ...> Investigate new social paradigms, mechanisms of influence, simulacrum structures, and nascent indicators
+-- 👀- 👀-- 👀- 👀- ----> write, edit user manuals, complex user requirements, complex data diagraming + trees
+-- 👀- 👀-- 👀-- 👀- 👀✨----> excellled training and developing staff to reach their potential  
+-- 👀- 👀-- 👀- 👀- 
 -- 👀- 👀 
 -- 👀-> ROLE MODELS -> Leanrning Salon, F. Chollet, Ida Momennejad + John Langford (MSFT), A. Kroker, David Chalmers  
 -- 👀- 👀 
---------------------------- > Chollet 'on the measure of intelligence' is pretty amazing and highly recommend  
--👀  
--👀  
+--------------------------- > Chollet 'on the measure of intelligence' is pretty amazing and highly recommend  👀  
 -👀  
 --
--- Major Lex Fridman Fan  
+-- 👀 Major LEX FRIDMAN fan - made it to last round of his 2021 hiring; only be 100% ready for any of his tests
 - LEXisms  
 - >>it would be beautiful to see a nexus of brainwave transmissions  
 - >>>>Need to expand understanding and scope of consciousness   
@@ -42,3 +39,4 @@
 -- 👀 --man was created by water to carry himself uphill  
 
  - >>>>Lovecraft corpus consolidation commencing  
+- Investigate new social paradigms, mechanisms of influence, simulacrum structures, and nascent indicators
