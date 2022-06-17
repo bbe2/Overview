@@ -4,7 +4,7 @@
 - 👋 👋 in 2Q22 began work w amazing people building data science coursera course for lg tech comp, im writing python 101 course
 - 👋
 - 👋👋👋    building deep evidence and paradigm for my terminal degree  
-- 
+- 👋
 - 👋👋 interested in ... advancing health equity for marginalized youth + expanding life skills w tech  
 - 👋  have helped over 20 individuals personally through coaching and tutoring with one who got their GED  
 - 👋 my goal remains training larger groups of students vs 1-on-1 as the world needs programmers  
@@ -16,15 +16,14 @@
 -- 👀- 👀-- 👀- 👀 ---> software design and development for project portfolio, clinical trial, and agnostic programming ✨✨  
 -- 👀- 👀-- 👀- 👀- ----> write, edit user manuals, complex user requirements, data diagraming, white papers, sow  
 -- 👀- 👀-- 👀-- 👀- 👀✨----> training and developing staff to reach their potential  
--- 👀- 👀-- 👀- 👀- ...> Investigate new social paradigms, mechanisms of influence, simulacrum structures, and nascent indicators  
+-- 👀- 👀-- 👀- 👀- ...> Investigate new social paradigms, mechanisms of influence, simulacrum structures, and nascent indicators
+-- 👀- 👀 
 -- 👀-> ROLE MODELS -> Leanrning Salon, F. Chollet, Ida Momennejad + John Langford (MSFT), A. Kroker, David Chalmers  
--👀   
--👀  
+-- 👀- 👀 
 --------------------------- > Chollet 'on the measure of intelligence' is pretty amazing and highly recommend  
 -👀  
 -👀  
 -👀  
-
 --
 -- Major Lex Fridman Fan  
 - LEXisms  
