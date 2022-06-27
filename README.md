@@ -1,13 +1,22 @@
-- >>>> for a good time https://plato.stanford.edu/  really like lecture on substance https://plato.stanford.edu/entries/substance/  
+>>>>  my current activities are foobar challenges, google cloud learning, and finishing phd applications 
 - 👋
-- 👋 Hi, I’m bbe adjunct computer science, curriculum writer jr data scientist. Thank you for stopping by!
+- >>>> >>>>  June learner thoughts - fundamental mechanics for digital age
+- >>>> worry about re-inventing the keyboard later and achieve 50-60 words/min
+-How to write anything | https://web.mit.edu/course/21/21.guide/toc.htm
+-How to type | a) https://www.typesy.com/ ~$17 or $27, b) https://www.nchsoftware.com/typingtutor/index.html  Keybloz2e @$14.99
+- 👋
+- >>>> where I start ---  https://plato.stanford.edu/--> become essential with substance
+- >>>> substance https://plato.stanford.edu/entries/substance/  
+- >>>> thou hast blessed the work of his hands, and his substance is increased in the land <job 1:10>
+- 👋
+- 👋 BBZ materializes here - adjunct computers sci., G curriculum writer, jr data scientist. Thank you for stopping by!
 - 👋 👋 in 2Q22 began work w amazing people building data science coursera course for lg tech comp, im writing python 101 course
 - 👋👋👋    building deep evidence and paradigm for my terminal degree  
 - 👋
-- 👋👋 interested in ... advancing marginalize youth skills to access their potential and make it so
+- 👋👋 interested in ... advancing marginalize youth skills to access their skill potential and build life sustainability
 - 👋  helped over 20 students coaching and tutoring to advance, one w GED: new GOAL develop as many new programmers as possible 
 -- 👀-  
--- 👀- 👀  Adept building ontologies, informed with scientific research -- frame analysis + translate into structures  
+-- 👀- 👀  Adept with framing ontologies informed with scientific research + data structures + analysis program 
 -- 👀- 👀-  👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense  ✨✨  
 -- 👀- 👀-- 👀- 👀 ---> deep practical re-engineering w complex machine + ops improvement, BOMs, target forecasting ✨✨  
 -- 👀- 👀-- 👀- 👀 ---> built 3 applications project portfolio, clinical trial, and agnostic programming ✨✨  
