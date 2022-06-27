@@ -1,13 +1,13 @@
 >>>>  my current activities are foobar challenges, google cloud learning, and finishing phd applications 
 - 👋
 - >>>> >>>>  June learner thoughts - fundamental mechanics for digital age
-- >>>> worry about re-inventing the keyboard later and achieve 50-60 words/min
--How to write anything | https://web.mit.edu/course/21/21.guide/toc.htm
--How to type | a) https://www.typesy.com/ ~$17 or $27, b) https://www.nchsoftware.com/typingtutor/index.html  Keybloz2e @$14.99
+- >>>> worry re-inventing keyboard later, acheive 50-60 words/min
+-practice typing (keyblaze @15 https://www.nchsoftware.com/typingtutor/index.html ; https://www.typesy.com/ ~$17/27
 - 👋
-- >>>> where I start ---  https://plato.stanford.edu/--> become essential with substance
-- >>>> substance https://plato.stanford.edu/entries/substance/  
-- >>>> thou hast blessed the work of his hands, and his substance is increased in the land <job 1:10>
+- >>>> where I start ---  https://plato.stanford.edu/
+- >>>> become essential with substance https://plato.stanford.edu/entries/substance/  
+- >>>> -----------------------thou hast blessed the work of his hands, 
+- >>>>---------------------------and his substance is increased in the land <job 1:10>
 - 👋
 - 👋 BBZ materializes here - adjunct computers sci., G curriculum writer, jr data scientist. Thank you for stopping by!
 - 👋 👋 in 2Q22 began work w amazing people building data science coursera course for lg tech comp, im writing python 101 course
