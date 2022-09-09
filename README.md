@@ -26,10 +26,10 @@
 >>>>          Need to expand understanding and scope of consciousness   
 >>>> >>>>          beauty will save the world - Dostoevsky   
 >>>>                  reason is a slave of the passions - D. Hume  
--- 👀-   is it more concerning for the lobster to be boiled or for lobster o be exploded with an m80  
--- 👀- �  how import>>>>ant is spice in the dish you are making  
+-- 👀-   is it more concerning for the lobster to be boiled or to be exploded with an M80  
+-- 👀- �  how important is spice in the dish you are making  
 -- 👀- 👀-- 👀 hunger,anything but hunger  
--- 👀- 👀-- 👀-- 👀- 👀- 👀--> tbeauty is an absence of things otherwise consuming your attention    
+-- 👀- 👀-- 👀-- 👀- 👀- 👀--> beauty is an absence of things otherwise consuming your attention    
 -- 👀- 👀-- 👀-- 👀- 👀----> there is something amazing about eating a small morcil of chocolate after a 40 day fast   
 -- 👀- 👀-- 👀-- 👀---> ponder the nth of the ride, truly fear death may give deeper meaning and urgency for the moment  
 -- 👀- 👀---->  3 most important things, safety/security, data privacy, health (harvard blood labs + athletic greens (great stuff)   
