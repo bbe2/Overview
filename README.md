@@ -38,5 +38,5 @@
 - >> And now for something completely different!---  https://plato.stanford.edu/  
 - >>>>...and his substance is increased in the land <job 1:10>  
 
-👋👋👋    building deep evidence and paradigm for terminal degree  
-👀- 👀-  👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense   
+👋👋👋    building deep evidence for terminal degree  
+>>> 👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense   
