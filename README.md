@@ -19,23 +19,23 @@
 - 👋👋 focus => advancing marginalize youth skills to access their potential, get great jobs, and build life sustainability
 - ---------
 > Major LEX FRIDMAN fan - https://lexfridman.com/  
->> made it to "FINAL" round of his 2021 hiring as production assistant in charge of text material, I have evidence + his email!
+>> made it to "FINAL" round of his 2021 hiring as content production assistant. I have evidence + his email!
  
 >>LEXisms  
 >>>it would be beautiful to see a nexus of brainwave transmissions  
 >>>>          Need to expand understanding and scope of consciousness   
 >>>> >>>>          beauty will save the world - Dostoevsky   
 >>>>                  reason is a slave of the passions - D. Hume  
+>>               how important is spice in the dish you are making  
 >  hunger. anything but hunger  
  ----------
 -- 👀-   is it more concerning for the lobster to be boiled or to be exploded with an M80  
--- 👀- �  how important is spice in the dish you are making  
--- 👀- 👀-- 👀 
--- 👀- 👀-- 👀-- 👀- 👀- 👀--> beauty is an absence of things otherwise consuming your attention    
+-- 👀- 👀-- 👀-- 👀- 👀- 👀--> beauty is an absence of things otherwise consuming your attention  
+-- 👀- �  
 -- 👀- 👀-- 👀-- 👀- 👀----> there is something amazing about eating a small morcil of chocolate after a 40 day fast   
 -- 👀- 👀-- 👀-- 👀---> ponder the nth of the ride, truly fear death may give deeper meaning and urgency for the moment  
 -- 👀- 👀---->  3 most important things, safety/security, data privacy, health (harvard blood labs + athletic greens (great stuff)   
--- 👀 --man was created by water to carry himself uphill  
+-- 👀-
 
 > And now for something completely different!---  https://plato.stanford.edu/  
 >>...and his substance is increased in the land <job 1:10>  
