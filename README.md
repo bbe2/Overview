@@ -2,9 +2,10 @@
 >> 👋 Google python curriculum writer including readings, case studies, and project portfolio (via synergis IT)  
 >>> 👋 adjunct computers science - Fall 2022 => it.304 systems analysis and design. bi-weekly in-person instruction  
 -------------
-> my current activities are foobar challenges, phd work, teaching amazing students, and helping an amazing company train data scientists in scale    
->>  sept 2022 new student thoughts = enhance fundamental mechancics for digital age by training in typing AND forms of measurement   
->>> set new goal for 40-50 words per minute +  
+> my current activities are foobar challenges, phd work, teaching amazing students, and 
+>>helping an amazing company train data scientists at scale    
+>>  sept 2022 new student thoughts = enhance key digital age mechanical skills with typing AND forms of measurement   
+>>> set goal for 50 words per minute 
 >> dont look at keyboard  
 > quality typing training tools = https://www.nchsoftware.com/typingtutor/index.html or https://www.typesy.com/  
 -------------
