@@ -1,23 +1,25 @@
 > Hi! Thank you for stopping by! Let me know if I can help  
 >> 👋 Google python curriculum writer including readings, case studies, and project portfolio (via synergis IT)  
->>> 👋 adjunct computers science - Fall 2022 => it.304 systems analysis and design. bi-weekly in-person instruction  
+>>> 👋 adjunct computers science - Fall 2022 => it.304 systems analysis and design. bi-wkly in-person  
 -------------
-> my current activities are foobar challenges, phd work, teaching amazing students, and 
->>helping an amazing company train data scientists at scale    
->>  sept 2022 new student thoughts = enhance key digital age mechanical skills with typing AND forms of measurement   
->>> set goal for 50 words per minute 
->> dont look at keyboard  
-> quality typing training tools = https://www.nchsoftware.com/typingtutor/index.html or https://www.typesy.com/  
+> my current activities  
+>> teaching amazing students  
+>> tutoring to be nurse on TEAS exam challenges to pass test and go to nursing school  
+
+>> recent books  
+>> meaningful coincidences by dr beitman (systematic study to find high generators to grow biosphere is, well amazing!  
+>>> the return of the gods by j. kahn -> multiple research/coincidences noted in the book are pretty mind bending and moderatly terrifying. Get your belief stakes in and drive them in before__________  
+
 -------------
 - 👋 skills  
 -- 👀- 👀  framing ontologies informed with scientific research + data structures + analysis protocols  
--- 👀- 👀-- 👀- 👀 ---> deep practical re-engineering w complex machine + ops improvement, BOMs, target forecasting ✨✨  
--- 👀- 👀-- 👀-- 👀- 👀✨----> design, training, and development of skill material to grow learners and staff  
+-- 👀- 👀-- 👀- 👀 ---> deep practical re-engineering experience informs practioner academic work in IT system design  
+-- 👀- 👀-- 👀-- 👀- 👀✨----> design and development of skill material to grow learners  
 -- 👀- 👀-- 👀- 👀-  - - 👋  GOAL=> develop as many new programmers as possible  
--- 👀-👀-👀-> ROLE MODELS -> Learning Salon, F. Chollet, Ida Momennejad + John Langford (MSFT), A. Kroker, David Chalmers  
--- 👀- > Chollet 'on the measure of intelligence' is pretty amazing and highly recommend
+-- 👀-👀-👀-> couple role models -> F. Chollet, Ida Momennejad(learning salon) + John Langford (MSFT)  
+-- 👀- > a.Kroker, David Chalmers!  
 -----------
-- 👋👋 focus => advancing marginalize youth skills to access their potential, get great jobs, and build life sustainability
+- 👋👋 focus => build infrastructure to advance marginalize youth skills energizing potential leading to quality work / life sustainability
 - ---------
 > Major LEX FRIDMAN fan - https://lexfridman.com/  
 >> made it to "FINAL" round of his 2021 hiring as content production assistant. I have evidence + his email!
@@ -29,17 +31,18 @@
 >>>>                  reason is a slave of the passions - D. Hume  
 >>               how important is spice in the dish you are making  
 >  hunger. anything but hunger  
- ----------
 -- 👀-   is it more concerning for the lobster to be boiled or to be exploded with an M80  
 -- 👀- 👀-- 👀-- 👀- 👀- 👀--> beauty is an absence of things otherwise consuming your attention  
--- 👀- �  
 -- 👀- 👀-- 👀-- 👀- 👀----> there is something amazing about eating a small morcil of chocolate after a 40 day fast   
 -- 👀- 👀-- 👀-- 👀---> ponder the nth of the ride, truly fear death may give deeper meaning and urgency for the moment  
 -- 👀- 👀---->  3 most important things, safety/security, data privacy, health (harvard blood labs + athletic greens (great stuff)   
--- 👀-
 
-> And now for something completely different!---  https://plato.stanford.edu/  
->>...and his substance is increased in the land <job 1:10>  
+--------------------
+> And now for something completely different!---  https://plato.stanford.edu/  <---amamzing philosophy deep dives & knowledge formation
+>> random for students!
+>> enhance "typing" digital age mechanical skills - goal = 50 wpm dont look keyboard 
+> quality training = https://www.nchsoftware.com/typingtutor/index.html or https://www.typesy.com/  
+>Chollet 'on the measure of intelligence' is pretty amazing 
+>>https://arxiv.org/abs/1911.01547
 
->>>👋👋👋    building deep evidence for terminal degree  
->>>> 👀 ---> Love digital dust, dwell times, geolocations, content scatter, and nonsense   
+>>>👋👋👋    building deep evidence for terminal degree love digital dust, content scatter, nonsense , and coincidence
