@@ -1,5 +1,5 @@
 >  Hi! Thank you for stopping by! Let me know how I may be of service.  
->> Instructional designer, curriculum developer, and educator framing compelling learning experiences. As a long-term business and information technology re-engineering practitioner, I combine industrial-organizational principles with evidence-based learning theory to build sustainable learner skills. Proven leadership partnering with leaders for need analysis.  
+>> Instructional designer, curriculum developer, and educator framing compelling learning experiences. As a long-term business and information technology re-engineering practitioner, I combine industrial-organizational principles with evidence-based learning theory to build sustainable skills media. Proven leadership partnering with leaders for need analysis.  
 ----------
 
 skills + key offerings,  
