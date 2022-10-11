@@ -1,4 +1,4 @@
-> Overview  
+>  Hi! Thank you for stopping by! Let me know how I may be of service.  
 >> Instructional designer, curriculum developer, and educator framing compelling learning experiences. As a long-term business and information technology re-engineering practitioner, I combine industrial-organizational principles with evidence-based learning theory to build sustainable learner skills. Proven leadership partnering with leaders for need analysis.  
 ----------
 
@@ -14,9 +14,9 @@ skills + key offerings,
 
 --------
 
-> Hi! Thank you for stopping by! Let me know if I can help  
+> Oct-22 Current Roles 
 >> 👋 Google python curriculum writer and technical case coder of both readings, case studies, and project capstones (via synergis)  
->>> 👋 adjunct computer science - Fall 2022 => it.304 systems analysis and design. bi-wkly in-person  
+>>> 👋 adjunct computer science - Fall 2022 => it.304 systems analysis and design. bi-wkly on-ground
 
 ---------
 
@@ -54,9 +54,8 @@ f.chollet on the measure of intelligence' is rather amazing, https://arxiv.org/a
 
 --------------------
 > And now for something completely different
->> https://plato.stanford.edu/  <---amamzing philosophy deep dives & knowledge formation
->> random for students!
->> enhance "typing" digital age mechanical skills - goal = 50 wpm dont look keyboard 
+>> https://plato.stanford.edu/  <---amamzing philosophy deep dive 
+>> random for students! enhance digital age typing skills goal = 50 wpm min 
 > quality training = https://www.nchsoftware.com/typingtutor/index.html or https://www.typesy.com/  
 
 ----------
