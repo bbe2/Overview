@@ -20,10 +20,10 @@ skills + key offerings,
 
 ---------
 
-> my current activities  
+> my current activities  (Oct-22)
 >> building an NLP of google advanced data analytics corpora to identify and address any similarity deficits and help harmonize langugage families.
 >>> stretch goal: use parent course (coursera intro data analytics) dropoff statistics and asses prediction dropoff potential.
-
+>>>> finalizing new python skills learner codebooks + exercises
 --------
 
 > recent books  
