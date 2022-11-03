@@ -1,40 +1,44 @@
->  Hi! Thank you for stopping by! Let me know how I may be of service.  
->> Instructional designer, curriculum developer, and educator framing compelling learning experiences. As a long-term business and information technology re-engineering practitioner, I combine industrial-organizational principles with evidence-based learning theory to build sustainable skills media. Proven leadership partnering with leaders for need analysis.  
+>  Thank you for stopping by and learning about my substance
+
+>> Please allow me to introduce myself. I am a technical curriculum developer, instructional designer, and university instructor. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences and creative content.
 ----------
 
-skills + key offerings,  
--- 👀-  
--- 👀- 👀-->  Apply theory and learning principles to implement diverse methods to achieve desired learning media focus.  
--- 👀- 👀-- 👀- 👀  
--- 👀- 👀-- 👀-- 👀--> deep practical re-engineering experience informs practioner academic work in IT system design.  
--- 👀- 👀-- 👀-- 👀  
--- 👀- 👀-- 👀--> Apply scientific editor skills across scripts and media, ensuring continuity and software constructs.  
--- 👀- 👀  
+key offerings  
+
+-- 👀-  Proven skills in partnering with leaders and engineers to intuit goals and frame needs analysis objectives.  
+-- 👀- 👀-->  Apply theory and learning principles to multimedia to achieve desired learning focus.   
+-- 👀- 👀-- 👀- 👀 --> Promote an ontology of happiness and balance with all peers.  
+-- 👀- 👀-- 👀-- 👀--> deep practical re-engineering experience informs practioner academic work in IT system design.   
+-- 👀- 👀-- 👀-- 👀 --> Adept leadership and team communication while learning and developing quality technical assets.  
+-- 👀- 👀-- 👀--> Keen grok skills help ensure software construct continuity across media.  
+-- 👀- 👀 --> Curiosity leads to informing learning teams of recent neuroscience literature findings.  
 -- 👀--> Adapt content for distance learning by applying technical skills to a medium's advantages and disadvantages.   
 
 --------
 
-> Oct-22 Current Roles 
+> Oct-22 Current Roles  
 >> 👋 Google python curriculum writer and technical case coder of both readings, case studies, and project capstones (via synergis)  
->>> 👋 adjunct computer science - Fall 2022 => it.304 systems analysis and design. bi-wkly on-ground
+>>> 👋 adjunct computer science - Fall 2022 => it.304 systems analysis and design. bi-wkly on-ground  
 
 ---------
 
 > my current activities  (Oct-22)
->> building an NLP of google advanced data analytics corpora to identify and address any similarity deficits and help harmonize langugage families.
->>> stretch goal: use parent course (coursera intro data analytics) dropoff statistics and asses prediction dropoff potential.
->>>> finalizing new python skills learner codebooks + exercises
+>> building an NLP of google advanced data analytics corpora to identify and address any similarity deficits and help harmonize langugage families.  
+>>>> finalizing for release a new 7 pillars of python training modules  
 --------
 
 > recent books  
 >> meaningful coincidences by dr beitman (systematic study to find high generators to grow biosphere is, well amazing!   
->>> the return of the gods by j. kahn -> multiple research/coincidences noted in the book are pretty mind bending and moderatly terrifying.  
->>>demonic foes by dr gallagher. he puts it best, "finally i bear witness to the underlying spiritual realities that give meaning to these victims travails...Demonic foes presents examples from a larger body of such evidence [types of spiritual possession] concerning a subject area that is often misunderstood and ignored...I believe that the value of identifying and attending to the reality of this sobering topic is worth the effort and that its implications warrant reflection."  
+>>> the return of the gods by j. kahn -> multiple research/coincidences noted are mind bending and moderatly terrifying.  
+>>> demonic foes by dr gallagher. he puts it best,  
+"finally i bear witness to the underlying spiritual realities that give meaning to these victims travails...Demonic foes presents examples from a larger body of such evidence [types of spiritual possession] concerning a subject area that is often misunderstood and ignored...I believe that the value of identifying and attending to the reality of this sobering topic is worth the effort and that its implications warrant reflection."  
 
 -------------
 
-👋👋 interest => build a sustainable programming skill infrastructure to energize the potential of groomed talent, marginal youth, and adult learners to untap potential, help address a gap in available programmers, and provide a framework for  quality of work life and life sustainability  
 👋  GOAL=> develop as many new programmers as possible  
+👋👋 interest => build a sustainable programming skill infrastructure to energize the potential of marginal youth and adult learners
+👋👋 interest => frame computer science as gateway to quality of work, resilience, and sustainability  
+
 👋  ROLE Models=> f.Chollet, Ida Momennejad(learning salon) + John Langford (MSFT), a.Kroker, d.Chalmers!  
 f.chollet on the measure of intelligence' is rather amazing, https://arxiv.org/abs/1911.01547  
 
