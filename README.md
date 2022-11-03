@@ -1,6 +1,6 @@
->  Thank you for stopping by and learning about my substance
-
->> Please allow me to introduce myself. I am a technical curriculum developer, instructional designer, and university instructor. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences and creative content.
+> Please allow me to introduce myself. I am a technical curriculum developer, instructional designer, and university instructor. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences and creative content.
+>>  Thank you for stopping by and learning about my substance  
+>>> https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf  
 ----------
 
 key offerings  
