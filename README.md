@@ -64,3 +64,6 @@ key offerings
 
 ----------
 >>>👋👋👋    ongoing, evidence building for terminal degree | interests digital dust, nonsense, coincidence, consciousness, machine learning in your pocket
+
+**AWS stickers from 10.28.22 student hackathon invite**
+![AWS stickers](https://user-images.githubusercontent.com/59778456/199842347-ac5ca009-3127-443c-bb29-59c2398762c9.jpg)
