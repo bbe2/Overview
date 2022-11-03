@@ -27,25 +27,26 @@ key offerings
 >>>> finalizing for release a new 7 pillars of python training modules  
 --------
 
-> recent books  
+> recent reads  
 >> meaningful coincidences by dr beitman (systematic study to find high generators to grow biosphere is, well amazing!   
 >>> the return of the gods by j. kahn -> multiple research/coincidences noted are mind bending and moderatly terrifying.  
 >>> demonic foes by dr gallagher. he puts it best,  
-"finally i bear witness to the underlying spiritual realities that give meaning to these victims travails...Demonic foes presents examples from a larger body of such evidence [types of spiritual possession] concerning a subject area that is often misunderstood and ignored...I believe that the value of identifying and attending to the reality of this sobering topic is worth the effort and that its implications warrant reflection."  
+"finally i bear witness to the underlying spiritual realities that give meaning to these victims travails...Demonic foes presents examples from a larger body of such evidence concerning a subject area that is often misunderstood and ignored...I believe that the value of identifying and attending to the reality of this sobering topic is worth the effort and that its implications warrant reflection."  
 
 -------------
 
 👋  GOAL=> develop as many new programmers as possible  
-👋👋 interest => build a sustainable programming skill infrastructure to energize the potential of marginal youth and adult learners
-👋👋 interest => frame computer science as gateway to quality of work, resilience, and sustainability  
+👋👋 => build a sustainable programming skill infrastructure to energize the potential of marginal youth and adult learners  
+👋👋 => frame computer science as gateway to quality of work, resilience, and sustainability  
 
-👋  ROLE Models=> f.Chollet, Ida Momennejad(learning salon) + John Langford (MSFT), a.Kroker, d.Chalmers!  
-f.chollet on the measure of intelligence' is rather amazing, https://arxiv.org/abs/1911.01547  
+👋  ROLE Models=> f.Chollet, Ida Momennejad(learning salon) + John Langford (MSFT),  
+-- a.Kroker, d.Chalmers!  
+-- f.chollet on the measure of intelligence' is rather amazing, https://arxiv.org/abs/1911.01547  
 
 ---------
 
 
-> Major LEX FRIDMAN fan - https://lexfridman.com/  
+> >Major LEX FRIDMAN fan - https://lexfridman.com/  
 >>LEXisms  
 >>>it would be beautiful to see a nexus of brainwave transmissions  
 >>>>          Need to expand understanding and scope of consciousness   
@@ -54,7 +55,6 @@ f.chollet on the measure of intelligence' is rather amazing, https://arxiv.org/a
 >>               how important is spice in the dish you are making  
 >>>>  hunger. anything but hunger  
 >>>> >>>> beauty is an absence of things otherwise consuming your attention  
-> 3 most important things, personal safety, data privacy, health (athletic greens)  
 
 --------------------
 > And now for something completely different
@@ -63,4 +63,4 @@ f.chollet on the measure of intelligence' is rather amazing, https://arxiv.org/a
 > quality training = https://www.nchsoftware.com/typingtutor/index.html or https://www.typesy.com/  
 
 ----------
->>>👋👋👋    ongoing, evidence building for terminal degree | interests digital dust, nonsense, coincidence, consciousness  
+>>>👋👋👋    ongoing, evidence building for terminal degree | interests digital dust, nonsense, coincidence, consciousness, machine learning in your pocket
