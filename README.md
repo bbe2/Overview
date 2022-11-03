@@ -51,10 +51,10 @@ key offerings
 >>>it would be beautiful to see a nexus of brainwave transmissions  
 >>>>          Need to expand understanding and scope of consciousness   
 >>>> >>>>          beauty will save the world - Dostoevsky   
->>>>                  reason is a slave of the passions - D. Hume  
+>>>>      reason is a slave of the passions - D. Hume  
 >>               how important is spice in the dish you are making  
 >>>>  hunger. anything but hunger  
->>>> >>>> beauty is an absence of things otherwise consuming your attention  
+>>>> >>>>     beauty is an absence of things otherwise consuming your attention  
 
 --------------------
 > And now for something completely different
