@@ -63,7 +63,12 @@ key offerings
 > quality training = https://www.nchsoftware.com/typingtutor/index.html or https://www.typesy.com/  
 
 ----------
->>>👋👋👋    ongoing, evidence building for terminal degree | interests digital dust, nonsense, coincidence, consciousness, machine learning in your pocket
+>>>👋👋👋    ongoing, evidence for PhD => digital dust, nonsense, coincidence, consciousness, machine learning in your pocket
 
+-------------
+**PS - somebody made it into google's famous foobar**
+![afoobar](https://user-images.githubusercontent.com/59778456/199842499-10046164-b7e6-4990-b9f3-da9e5069536d.JPG)
+
+---------------
 **AWS stickers from 10.28.22 student hackathon invite**
 ![AWS stickers](https://user-images.githubusercontent.com/59778456/199842347-ac5ca009-3127-443c-bb29-59c2398762c9.jpg)
