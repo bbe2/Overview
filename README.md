@@ -22,8 +22,8 @@ key offerings
 
 ---------
 
-> my current activities  (Oct-22)
->> building an NLP of google advanced data analytics corpora to identify and address any similarity deficits and help harmonize langugage families.  
+> my current activities  (NOv-22)
+>> built NLP of google advanced data analytics corpora to identify any similarity deficits and help harmonize langugage families.  
 >>>> finalizing for release a new 7 pillars of python training modules  
 --------
 
