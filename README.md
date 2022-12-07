@@ -56,6 +56,13 @@ key offerings
 >>>>  hunger. anything but hunger  
 >>>> >>>>     beauty is an absence of things otherwise consuming your attention  
 
+## Lex's required book list  
+[LexFridman Book List.pdf](https://github.com/bbe2/bbz-overview/files/10171801/LexFridman.Book.List.pdf)  
+
+![lex_booklist](https://user-images.githubusercontent.com/59778456/206061208-09354bbd-8fc0-4881-b50b-050ae03bdd2d.JPG)  
+
+
+
 --------------------
 > And now for something completely different
 >> https://plato.stanford.edu/  <---amamzing philosophy deep dive 
