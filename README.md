@@ -66,7 +66,7 @@ key offerings
 >>>👋👋👋    ongoing, evidence for PhD => digital dust, nonsense, coincidence, consciousness, machine learning in your pocket
 
 -------------
-**PS - somebody made it into google's famous foobar**
+**PS - google's foobar is quite interesting! **
 ![afoobar](https://user-images.githubusercontent.com/59778456/199842499-10046164-b7e6-4990-b9f3-da9e5069536d.JPG)
 
 ---------------
