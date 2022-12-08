@@ -38,8 +38,6 @@ key offerings
 
 ## Lex's required book list  [LexFridman Book List.pdf](https://github.com/bbe2/bbz-overview/files/10171801/LexFridman.Book.List.pdf)  
 
-![lex_booklist](https://user-images.githubusercontent.com/59778456/206061208-09354bbd-8fc0-4881-b50b-050ae03bdd2d.JPG)  
-
 -----------
 
 ## Have a moment?
@@ -59,13 +57,6 @@ Cooper
 
 Interstellar, screenplay, p.122, 2014
 
-
---------------------
-> And now for something completely different
->> https://plato.stanford.edu/  <---amamzing philosophy deep dive 
->> random for students! enhance digital age typing skills goal = 50 wpm min 
-> quality training = https://www.nchsoftware.com/typingtutor/index.html or https://www.typesy.com/  
-
 ----------------
 Portfolio
 • coach_tutor_volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer
@@ -83,3 +74,9 @@ Portfolio
 
 **PS - google's foobar is quite interesting! **
 ![afoobar](https://user-images.githubusercontent.com/59778456/199842499-10046164-b7e6-4990-b9f3-da9e5069536d.JPG)
+
+--------------------
+> And now for something completely different
+>> https://plato.stanford.edu/  <---amamzing philosophy deep dive 
+>> random for students! enhance digital age typing skills goal = 50 wpm min 
+> quality training = https://www.nchsoftware.com/typingtutor/index.html or https://www.typesy.com/  
