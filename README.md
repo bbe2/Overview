@@ -35,7 +35,7 @@ key offerings
 >>               how important is spice in the dish you are making  
 >>>>  hunger. anything but hunger  
 >>>> >>>>     beauty is an absence of things otherwise consuming your attention  
-Lex's required book list  [LexFridman Book List.pdf](https://github.com/bbe2/bbz-overview/files/10171801/LexFridman.Book.List.pdf)  
+[LexFridman Book List.pdf](https://github.com/bbe2/bbz-overview/files/10171801/LexFridman.Book.List.pdf)  
 
 -----------
 
