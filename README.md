@@ -39,7 +39,7 @@ key offerings
 
 -----------
 
-## Have a moment?
+## Hmmm.
 => Will our machines of the REAL work with humans to compute the impossible at a critical moment?
 Or will Isaac Asimov's children drown?
 
