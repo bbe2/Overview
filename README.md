@@ -40,9 +40,13 @@ key offerings
 
 ![lex_booklist](https://user-images.githubusercontent.com/59778456/206061208-09354bbd-8fc0-4881-b50b-050ae03bdd2d.JPG)  
 
-Have a moment?
+-----------
+
+## Have a moment?
 => Will our machines of the REAL work with humans to compute the impossible at a critical moment?
 Or will Isaac Asimov's children drown?
+
+----------
 
 Cooper (human)
 -- Get ready to match our spin with the retro-thrusters
@@ -62,7 +66,7 @@ Interstellar, screenplay, p.122, 2014
 >> random for students! enhance digital age typing skills goal = 50 wpm min 
 > quality training = https://www.nchsoftware.com/typingtutor/index.html or https://www.typesy.com/  
 
-
+----------------
 Portfolio
 • coach_tutor_volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer
 • code training an samples_https://github.com/bbe2/portfolio/tree/code
