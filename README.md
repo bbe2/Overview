@@ -1,14 +1,8 @@
- am a technical curriculum developer, instructional designer, and university instructor who delivers effective learning experiences and creative content. Deep reengineering work and hands-on programming help me assess situations, decipher solutions, and bridge content to learners.
-
-Key offerings include 
-• Proven skills in partnering with leaders and engineers to intuit goals and frame needs analysis objectives. 
-• Skilled at mapping an instructional designer's strategy and framing methods for complex material skilling.
-• Need the complex explained? Rely on my keen grok skills to decipher, translate, and bridge content. 
-• Are there curious creatures on your team? Happy to share recent neuroscience literature learnings.
-• Do other people matter? Of course, tutoring a clinical associate to pass TEAS and start nursing school.
+I'm a technical curriculum developer, instructional designer, and university instructor who delivers effective learning experiences and creative content. Deep reengineering work and hands-on programming help me assess situations, decipher solutions, and bridge content to learners.  
 
 --Thank you for stopping by and learning about my substance  
--- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf  
+-- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf   
+
 ----------
 
 key offerings  
