@@ -60,21 +60,47 @@ key offerings
 
 ![lex_booklist](https://user-images.githubusercontent.com/59778456/206061208-09354bbd-8fc0-4881-b50b-050ae03bdd2d.JPG)  
 
-
-
 --------------------
 > And now for something completely different
 >> https://plato.stanford.edu/  <---amamzing philosophy deep dive 
 >> random for students! enhance digital age typing skills goal = 50 wpm min 
 > quality training = https://www.nchsoftware.com/typingtutor/index.html or https://www.typesy.com/  
 
-----------
->>>👋👋👋    ongoing, evidence for PhD => digital dust, nonsense, coincidence, consciousness, machine learning in your pocket
 
--------------
 **PS - google's foobar is quite interesting! **
 ![afoobar](https://user-images.githubusercontent.com/59778456/199842499-10046164-b7e6-4990-b9f3-da9e5069536d.JPG)
 
 ---------------
 **AWS stickers from 10.28.22 student hackathon invite**
 ![AWS stickers](https://user-images.githubusercontent.com/59778456/199842347-ac5ca009-3127-443c-bb29-59c2398762c9.jpg)
+
+Have a moment?
+=> Will our machines of the REAL work with humans to compute the impossible at a critical moment?
+Or will Isaac Asimov's children drown?
+
+Cooper (human)
+-- Get ready to match our spin with the retro-thrusters
+
+CASE (robot)
+-- It's not possible.
+
+Cooper
+-- No. It's necessary.
+
+Interstellar, screenplay, p.122, 2014
+
+
+Portfolio
+• coach_tutor_volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer
+• code training an samples_https://github.com/bbe2/portfolio/tree/code
+• Google Prof. ML Cert_____https://github.com/bbe2/portfolio/tree/google_Prof_ML_eng_cert
+• master of science port____https://github.com/bbe2/portfolio/tree/master_portfolio
+• multimedia_styleguide___https://github.com/bbe2/portfolio/tree/multimedia_styleguide
+• re-engineering____________https://github.com/bbe2/portfolio/tree/reengineering
+• reference_recommend____https://github.com/bbe2/portfolio/tree/reference_recommend
+• research_experience______https://github.com/bbe2/portfolio/tree/research_experience
+• scientific_editing__________https://github.com/bbe2/portfolio/tree/scientific_edit
+• technical writing__________https://github.com/bbe2/portfolio/tree/tech_write
+• tech curriculum + Grow w Google__https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG
+• >_7.Pillars.of.Python______https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python
+
