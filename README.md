@@ -10,11 +10,11 @@ key offerings
 -- 👀-  Proven skills in partnering with leaders and engineers to intuit goals and frame needs analysis objectives.  
 -- 👀- 👀-->  Apply theory and learning principles to multimedia to achieve desired learning focus.   
 -- 👀- 👀-- 👀 --> Promote an ontology of happiness and balance with all peers.  
--- 👀- 👀-- 👀-->  Do other people matter? Of course, tutoring a clinical associate to pass TEAS and start nursing school.
--- 👀- 👀-- 👀-- 👀 --> Adept leadership and team communication while learning and developing quality technical assets.  
--- 👀- 👀-- 👀--> Need the complex explained? Rely on my keen grok skills to decipher, translate, and bridge content. 
--- 👀- 👀 --> Are there curious creatures on your team? Happy to share recent neuroscience literature learnings. 
--- 👀--> Skilled at mapping an instructional designer's strategy and framing methods for complex material skilling.
+-- 👀- 👀-- 👀-->  Do other people matter? Of course, tutoring a clinical associate to pass TEAS and start nursing school.  
+-- 👀- 👀-- 👀-- 👀 --> Adept leadership and team communication while learning and developing quality technical assets.   
+-- 👀- 👀-- 👀--> Need the complex explained? Rely on my keen grok skills to decipher, translate, and bridge content.   
+-- 👀- 👀 --> Are there curious creatures on your team? Happy to share recent neuroscience literature learnings.  
+-- 👀--> Skilled at mapping an instructional designer's strategy and framing methods for complex material skilling.  
 
 👋  GOAL=> develop as many new programmers as possible  
 👋👋 => build a sustainable programming skill infrastructure to energize the potential of marginal youth and adult learners  
@@ -40,20 +40,6 @@ key offerings
 
 ![lex_booklist](https://user-images.githubusercontent.com/59778456/206061208-09354bbd-8fc0-4881-b50b-050ae03bdd2d.JPG)  
 
---------------------
-> And now for something completely different
->> https://plato.stanford.edu/  <---amamzing philosophy deep dive 
->> random for students! enhance digital age typing skills goal = 50 wpm min 
-> quality training = https://www.nchsoftware.com/typingtutor/index.html or https://www.typesy.com/  
-
-
-**PS - google's foobar is quite interesting! **
-![afoobar](https://user-images.githubusercontent.com/59778456/199842499-10046164-b7e6-4990-b9f3-da9e5069536d.JPG)
-
----------------
-**AWS stickers from 10.28.22 student hackathon invite**
-![AWS stickers](https://user-images.githubusercontent.com/59778456/199842347-ac5ca009-3127-443c-bb29-59c2398762c9.jpg)
-
 Have a moment?
 => Will our machines of the REAL work with humans to compute the impossible at a critical moment?
 Or will Isaac Asimov's children drown?
@@ -70,6 +56,13 @@ Cooper
 Interstellar, screenplay, p.122, 2014
 
 
+--------------------
+> And now for something completely different
+>> https://plato.stanford.edu/  <---amamzing philosophy deep dive 
+>> random for students! enhance digital age typing skills goal = 50 wpm min 
+> quality training = https://www.nchsoftware.com/typingtutor/index.html or https://www.typesy.com/  
+
+
 Portfolio
 • coach_tutor_volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer
 • code training an samples_https://github.com/bbe2/portfolio/tree/code
@@ -84,3 +77,5 @@ Portfolio
 • tech curriculum + Grow w Google__https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG
 • >_7.Pillars.of.Python______https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python
 
+**PS - google's foobar is quite interesting! **
+![afoobar](https://user-images.githubusercontent.com/59778456/199842499-10046164-b7e6-4990-b9f3-da9e5069536d.JPG)
