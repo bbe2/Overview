@@ -2,7 +2,6 @@ I'm a technical curriculum developer, instructional designer, and university ins
 
 --Thank you for stopping by and learning about my substance  
 -- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf   
-
 ----------
 
 key offerings  
@@ -69,6 +68,7 @@ Portfolio
 • scientific_editing__________https://github.com/bbe2/portfolio/tree/scientific_edit
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write
 • tech curriculum + Grow w Google__https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG
+### NEW  
 • >_7.Pillars.of.Python______https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python
 
 **PS - google's foobar is quite interesting! **
