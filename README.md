@@ -68,7 +68,7 @@ Portfolio
 • scientific_editing__________https://github.com/bbe2/portfolio/tree/scientific_edit
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write
 • tech curriculum + Grow w Google__https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG
-### NEW  
+NEW
 • >_7.Pillars.of.Python______https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python
 
 **PS - google's foobar is quite interesting! **
