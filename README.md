@@ -4,14 +4,13 @@ I'm a technical curriculum developer, instructional designer, and university ins
 -- Standford Philosophy on substance  
 -- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf   
 
-👋  GOAL=> develop as many new programmers as possible  
->>>>build a sustainable culture of programming that energizes both youth and adult learners to the art of the possible  
+👋  GOAL=>  
+>>>>build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
 >>>> >>>>          frame computer science as gateway to quality work, resilience, sustainability  
 
 ----------
 
 key offerings  
-
 -- 👀-  Proven skills in partnering with leaders to intuit goals and ensure program learning objectives.   
 -- 👀- 👀-->  Apply theory and learning principles to multimedia to achieve desired learning focus.   
 -- 👀- 👀-- 👀 --> Promote an ontology of happiness and balance with all peers.  
