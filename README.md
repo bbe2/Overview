@@ -80,3 +80,4 @@ NEW
 > And now for something completely different
 >>>> >>>>          the best egg cooker and time savior to make yummy eggs
 ![dash_egg_cooker](https://user-images.githubusercontent.com/59778456/209671931-932ecdc1-5d08-477f-a009-8542de48affa.JPG)
+https://www.amazon.com/Dash-Rapid-Egg-Cooker-Scrambled/dp/B0168CNYD8?th=1
