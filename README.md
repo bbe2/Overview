@@ -1,28 +1,28 @@
 I'm a technical curriculum developer, instructional designer, and university instructor who delivers effective learning experiences and creative content. Deep reengineering work and hands-on programming help me assess situations, decipher solutions, and bridge content to learners.  
 
 --Thank you for stopping by and learning about my substance ~brian  
--- Standford Philosophy on meaning substance  
+-- Standford Philosophy on substance  
 -- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf   
+
+👋  GOAL=> develop as many new programmers as possible  
+>>>>build a sustainable culture of programming that energizes both youth and adult learners to the art of the possible  
+>>>> >>>>          frame computer science as gateway to quality work, resilience, sustainability  
 
 ----------
 
 key offerings  
 
--- 👀-  Proven skills in partnering with leaders and engineers to intuit goals and frame needs analysis objectives.  
+-- 👀-  Proven skills in partnering with leaders to intuit goals and ensure program learning objectives.   
 -- 👀- 👀-->  Apply theory and learning principles to multimedia to achieve desired learning focus.   
 -- 👀- 👀-- 👀 --> Promote an ontology of happiness and balance with all peers.  
 -- 👀- 👀-- 👀-->  Do other people matter? Of course, tutoring a clinical associate to pass TEAS and start nursing school.  
 -- 👀- 👀-- 👀-- 👀 --> Adept leadership and team communication while learning and developing quality technical assets.   
 -- 👀- 👀-- 👀--> Need the complex explained? Rely on my keen grok skills to decipher, translate, and bridge content.   
 -- 👀- 👀 --> Are there curious creatures on your team? Happy to share recent neuroscience literature learnings.  
--- 👀--> Skilled at mapping an instructional designer's strategy and framing methods for complex material skilling.  
-
-👋  GOAL=> develop as many new programmers as possible  
-👋👋 => build a sustainable programming skill infrastructure to energize the potential of marginal youth and adult learners  
-👋👋 => frame computer science as gateway to quality of work, resilience, and sustainability  
+-- 👀--> check out my >_7.py.pillars course to help absorb python data objects and core programming skills
 
 👋  ROLE Models=> f.Chollet, Ida Momennejad(learning salon) + John Langford (MSFT),  
--- a.Kroker, d.Chalmers!  
+-- a.Kroker, d.Chalmers!, a.Clark, h.Miller, m.aurelius, h.Meliville, f.dostoesvsky  
 -- f.chollet on the measure of intelligence' is rather amazing, https://arxiv.org/abs/1911.01547  
 
 ---------
@@ -30,7 +30,7 @@ key offerings
 > >Major LEX FRIDMAN fan - https://lexfridman.com/  
 >>LEXisms  
 >>>it would be beautiful to see a nexus of brainwave transmissions  
->>>>          Need to expand understanding and scope of consciousness   
+>>>>        Need to expand understanding and scope of consciousness   
 >>>> >>>>          beauty will save the world - Dostoevsky   
 >>>>      reason is a slave of the passions - D. Hume  
 >>               how important is spice in the dish you are making  
@@ -78,6 +78,5 @@ NEW
 
 --------------------
 > And now for something completely different
->> https://plato.stanford.edu/  <---amamzing philosophy deep dive 
->> random for students! enhance digital age typing skills goal = 50 wpm min 
-> quality training = https://www.nchsoftware.com/typingtutor/index.html or https://www.typesy.com/  
+>>>> >>>>          the best egg cooker and time savior to make yummy eggs
+![dash_egg_cooker](https://user-images.githubusercontent.com/59778456/209671931-932ecdc1-5d08-477f-a009-8542de48affa.JPG)
