@@ -23,7 +23,7 @@ key offerings
 
 👋  ROLE Models=> f.Chollet, Ida Momennejad(learning salon) + John Langford (MSFT),  
 -- a.Kroker, d.Chalmers!, a.Clark, h.Miller, m.aurelius, h.Meliville, f.dostoesvsky  
--- new new real, hard problems of consciousness, 2001, tropic cancer, meditations, moby dick, Братья Карамазовы,
+-- new new real, hard problems of consciousness, 2001, tropic cancer, meditations, moby dick, Братья Карамазовы  
 -- f.chollet on the measure of intelligence' is rather amazing, https://arxiv.org/abs/1911.01547  
 
 ---------
