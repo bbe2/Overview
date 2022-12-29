@@ -29,8 +29,8 @@ key offerings
 
 ---------
 
-> >Major LEX FRIDMAN fan - https://lexfridman.com/  
->>LEXisms  
+> >Major LEX FRIDMAN fan. I would like to use his podcasts as a basis for expanding computer literacy.
+
 >>>it would be beautiful to see a nexus of brainwave transmissions  
 >>>>        Need to expand understanding and scope of consciousness   
 >>>> >>>>          beauty will save the world - Dostoevsky   
@@ -39,7 +39,7 @@ key offerings
 >>>>  hunger. anything but hunger  
 >>>> >>>>     beauty is an absence of things otherwise consuming your attention  
 [LexFridman Book List.pdf](https://github.com/bbe2/bbz-overview/files/10171801/LexFridman.Book.List.pdf)  
-
+https://lexfridman.com/   
 -----------
 
 ## Hmmm.
