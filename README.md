@@ -11,7 +11,7 @@ recent news of interest
 
 ----------
 
-a few pillars
+a few pillars  
 -- 👀-  Proven skills in partnering with leaders to intuit goals and ensure program learning objectives.   
 -- 👀- 👀-->  Apply theory and learning principles to multimedia to achieve desired learning focus.   
 -- 👀- 👀-- 👀 --> Promote an ontology of happiness and balance with all peers.  
