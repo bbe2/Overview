@@ -39,12 +39,13 @@ key offerings
 >>>>  hunger. anything but hunger  
 >>>> >>>>     beauty is an absence of things otherwise consuming your attention  
 [LexFridman Book List.pdf](https://github.com/bbe2/bbz-overview/files/10171801/LexFridman.Book.List.pdf)  
-https://lexfridman.com/   
+https://lexfridman.com/    
+
 -----------
 
-## Hmmm.
-=> Will our machines of the REAL work with humans to compute the impossible at a critical moment?  
-Or will Isaac Asimov's children drown?  
+## chewySCI
+=> How will the new REAL.machines work with humans to compute the impossible at a critical moment?
+Will Isaac Asimov's children drown?  
 
 ----------
 
