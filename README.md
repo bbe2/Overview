@@ -1,15 +1,14 @@
 I'm a technical curriculum developer, instructional designer, and university instructor who delivers effective learning experiences and creative content. Deep reengineering work and hands-on programming help me assess situations, decipher solutions, and bridge content to learners.  
 
 --Thank you for stopping by and learning about my substance ~brian  
--- Standford Philosophy on substance  
 -- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf   
 
 👋  GOAL=>  
 >>>>build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
 >>>> >>>>          frame compute as gateway to quality work, resilience, sustainability  
 
-recent key new
-• https://www.dea.gov/fentanylawareness
+recent key new  
+• https://www.dea.gov/fentanylawareness  
 
 ----------
 
