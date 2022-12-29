@@ -6,7 +6,10 @@ I'm a technical curriculum developer, instructional designer, and university ins
 
 👋  GOAL=>  
 >>>>build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
->>>> >>>>          frame computer science as gateway to quality work, resilience, sustainability  
+>>>> >>>>          frame compute as gateway to quality work, resilience, sustainability  
+
+recent key new
+• https://www.dea.gov/fentanylawareness
 
 ----------
 
