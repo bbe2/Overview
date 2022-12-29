@@ -2,6 +2,7 @@ I'm a technical curriculum developer, instructional designer, and university ins
 
 --Thank you for stopping by and learning about my substance ~brian  
 -- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf   
+• check out my >_7.py.pillars course to help absorb python data objects and core programming skills  
 
 👋  GOAL=> build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
  >>>>          frame compute as a gateway to quality work, resilience, sustainability  
@@ -18,8 +19,7 @@ a few pillars
 -- 👀- 👀-- 👀-->  Do other people matter? Of course, tutoring a clinical associate to pass TEAS and start nursing school.  
 -- 👀- 👀-- 👀-- 👀 --> Adept leadership and team communication while learning and developing quality technical assets.   
 -- 👀- 👀-- 👀--> Need the complex explained? Rely on my keen grok skills to decipher, translate, and bridge content.   
--- 👀- 👀 --> Are there curious creatures on your team? Happy to share recent neuroscience literature learnings.  
-• check out my >_7.py.pillars course to help absorb python data objects and core programming skills
+-- 👀 --> Are there curious creatures on your team? Happy to share recent neuroscience literature learnings.  
 
 👋  ROLE Models=> f.Chollet, Ida Momennejad(learning salon) + John Langford (MSFT),  
 -- a.Kroker, d.Chalmers!, a.Clark, h.Miller, m.aurelius, h.Meliville, f.dostoesvsky  
