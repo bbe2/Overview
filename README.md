@@ -1,3 +1,9 @@
+**recent gems**  
+• https://theskylive.com/  
+• https://www.abebooks.com/  
+• https://onlinecolumnist.com/  
+• https://www.dea.gov/fentanylawareness  
+
 I'm a technical curriculum developer, instructional designer, and university instructor who delivers effective learning experiences and creative content. Deep reengineering work and hands-on programming help me assess situations, decipher solutions, and bridge content to learners.  
 
 --Thank you for stopping by and learning about my substance ~brian  
@@ -6,9 +12,6 @@ I'm a technical curriculum developer, instructional designer, and university ins
 
 👋  GOAL=> build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
  >>>>          frame compute as a gateway to quality work, resilience, sustainability  
-
-recent news of interest  
-• https://www.dea.gov/fentanylawareness  
 
 ----------
 
