@@ -2,7 +2,7 @@
 • https://theskylive.com/________connected to NASA jet propulsion data, amazing   
 • https://www.abebooks.com/______excellent source used book providers, nothing finer  
 • https://onlinecolumnist.com/___author John M. Curtis (author of Dodging The Bullet {hard book to get!})  
-• _______politically neutral commentary analyzing spin in national and global news.  
+•                                 ==> politically neutral commentary analyzing spin in national and global news.  
 • https://www.dea.gov/fentanylawareness__modern tragedy of the commons; helpful to remind students at start of each semester   
 • https://personal.math.ubc.ca/~cass/Euclid/euclid.html  
 
