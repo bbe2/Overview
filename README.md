@@ -6,8 +6,7 @@
 
 
 --Thank you for stopping by and learning about my substance ~brian  
--- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf   
-• check out my >_7.py.pillars course to help absorb python data objects and core programming skills  
+**NEW** my >_7.py.pillars course to help absorb python data objects and core programming skills  
 
 -- 👀- I'm a technical curriculum developer, instructional designer, and university instructor.
 -- 👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.
@@ -90,3 +89,6 @@ NEW
 >>>> >>>>          the best egg cooker and time savior to make yummy eggs
 ![dash_egg_cooker](https://user-images.githubusercontent.com/59778456/209671931-932ecdc1-5d08-477f-a009-8542de48affa.JPG)
 https://www.amazon.com/Dash-Rapid-Egg-Cooker-Scrambled/dp/B0168CNYD8?th=1
+
+>>>> https://plato.stanford.edu/  
+ -- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf   
