@@ -2,14 +2,16 @@
 👀- I'm a technical curriculum developer, instructional designer, and university instructor.  
 👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.  
 👀- Deep reengineering work and hands-on programming inform design choices that effectively bridge constructs to learners.  
-👋  GOAL👋  build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
-=> frame "compute" as paths towards quality work, employment resilience, and fulfillment  
 
-my.pillars  
+**GOALs**
+👋  build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
+👋  frame "compute" as paths towards quality work, employment resilience, and fulfillment  
+
+**my.pillars**  
 👀-  Proven skills in partnering with leaders to intuit goals and ensure program learning objectives.   
 👀- 👀-->  Apply theory and learning principles to multimedia to achieve desired learning focus.   
 👀- 👀-- 👀 --> Promote an ontology of happiness and balance amongst all peers.  
-👀- 👀-- 👀-->  Actively offer tutoring to friends and any of their acquaintances.
+👀- 👀-- 👀-->  Actively offer tutoring to friends and any of their acquaintances.  
 👀- 👀-- 👀-- 👀 --> Adept leadership and communication during quality learning media development.    
 👀- 👀-- 👀--> Need the complex explained? Rely on my keen grok skills to decipher, translate, and connect others to content.   
 👀 --> currently formulating use long format podcasts as basis to frame an undergrad course computer literacy.  
