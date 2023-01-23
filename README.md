@@ -10,7 +10,7 @@
 -- 👀- I'm a technical curriculum developer, instructional designer, and university instructor.  
 -- 👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.  
 -- 👀- Deep reengineering work and hands-on programming inform design choices that effectively bridge constructs to learners.  
-👋  GOAL=> build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
+👋  GOAL👋  build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
 => frame "compute" as paths towards quality work, employment resilience, and fulfillment  
 
 **NEW** 1Q23 - https://icarus.education/  
@@ -26,7 +26,7 @@ my.pillars
 -- 👀- 👀-- 👀-->  Actively offer tutoring to friends and any of their acquaintances.
 -- 👀- 👀-- 👀-- 👀 --> Adept leadership and communication during quality learning media development.    
 -- 👀- 👀-- 👀--> Need the complex explained? Rely on my keen grok skills to decipher, translate, and connect others to content.   
--- 👀 --> current goal- use long format podcasts as basis to frame an undergrad course computer literacy.  
+-- 👀 --> currently formulating use long format podcasts as basis to frame an undergrad course computer literacy.  
 
 👋  ROLE Models=> f.Chollet, Ida Momennejad(learning salon) + John Langford (MSFT),  
 -- a.Kroker, d.Chalmers!, a.Clark, h.Miller, m.aurelius, h.Meliville, f.dostoesvsky  
