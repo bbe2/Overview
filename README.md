@@ -1,8 +1,8 @@
 **recent gems**  
-• https://theskylive.com/  
-• https://www.abebooks.com/  
-• https://onlinecolumnist.com/  
-• https://www.dea.gov/fentanylawareness  
+• https://theskylive.com/________connected to NASA jet propulsion data, amazing   
+• https://www.abebooks.com/______excellent source used book providers, nothing finer  
+• https://onlinecolumnist.com/___regular use of objectivity vs. persuasion in current article communication  
+• https://www.dea.gov/fentanylawareness__modern tragedy of the commons; helpful to remind students at start of each semester  
 
 I'm a technical curriculum developer, instructional designer, and university instructor who delivers effective learning experiences and creative content. Deep reengineering work and hands-on programming help me assess situations, decipher solutions, and bridge content to learners.  
 
