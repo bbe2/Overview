@@ -1,3 +1,27 @@
+**Thank you for stopping by and learning about my substance ~brian**  
+👀- I'm a technical curriculum developer, instructional designer, and university instructor.  
+👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.  
+👀- Deep reengineering work and hands-on programming inform design choices that effectively bridge constructs to learners.  
+👋  GOAL👋  build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
+=> frame "compute" as paths towards quality work, employment resilience, and fulfillment  
+
+my.pillars  
+👀-  Proven skills in partnering with leaders to intuit goals and ensure program learning objectives.   
+👀- 👀-->  Apply theory and learning principles to multimedia to achieve desired learning focus.   
+👀- 👀-- 👀 --> Promote an ontology of happiness and balance amongst all peers.  
+👀- 👀-- 👀-->  Actively offer tutoring to friends and any of their acquaintances.
+👀- 👀-- 👀-- 👀 --> Adept leadership and communication during quality learning media development.    
+👀- 👀-- 👀--> Need the complex explained? Rely on my keen grok skills to decipher, translate, and connect others to content.   
+👀 --> currently formulating use long format podcasts as basis to frame an undergrad course computer literacy.  
+
+**NEW** 1Q23 - https://icarus.education/  
+**>_7.pillars.of.py** | author of an innovative Python learning module to address deficiencies in current literature.  
+• Formulated an innovative Python learning module to address deficiencies in current training literature.  
+• Secured the inclusion of the course on the ICARUS-AI E-Learning platform.  
+• Designed to experience plasticity with data transformers and coding of iterators, conditions, and classes.  
+
+------------
+
 **recent gems**  
 • https://theskylive.com/________connected to NASA jet propulsion data, amazing   
 • https://www.abebooks.com/______excellent source used book providers, nothing finer  
@@ -6,27 +30,6 @@
 • https://www.dea.gov/fentanylawareness__modern tragedy of the commons; helpful to remind students at start of each semester   
 • https://personal.math.ubc.ca/~cass/Euclid/euclid.html  
 
-**--Thank you for stopping by and learning about my substance ~brian**  
--- 👀- I'm a technical curriculum developer, instructional designer, and university instructor.  
--- 👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.  
--- 👀- Deep reengineering work and hands-on programming inform design choices that effectively bridge constructs to learners.  
-👋  GOAL👋  build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
-=> frame "compute" as paths towards quality work, employment resilience, and fulfillment  
-
-**NEW** 1Q23 - https://icarus.education/  
-**>_7.pillars.of.py** | author of an innovative Python learning module to address deficiencies in current literature.  
-• Formulated an innovative Python learning module to address deficiencies in current training literature.  
-• Secured the inclusion of the course on the ICARUS-AI E-Learning platform.  
-• Designed to experience plasticity with data transformers and coding of iterators, conditions, and classes.  
--------------
-my.pillars  
--- 👀-  Proven skills in partnering with leaders to intuit goals and ensure program learning objectives.   
--- 👀- 👀-->  Apply theory and learning principles to multimedia to achieve desired learning focus.   
--- 👀- 👀-- 👀 --> Promote an ontology of happiness and balance amongst all peers.  
--- 👀- 👀-- 👀-->  Actively offer tutoring to friends and any of their acquaintances.
--- 👀- 👀-- 👀-- 👀 --> Adept leadership and communication during quality learning media development.    
--- 👀- 👀-- 👀--> Need the complex explained? Rely on my keen grok skills to decipher, translate, and connect others to content.   
--- 👀 --> currently formulating use long format podcasts as basis to frame an undergrad course computer literacy.  
 
 👋  ROLE Models=> f.Chollet, Ida Momennejad(learning salon) + John Langford (MSFT),  
 -- a.Kroker, d.Chalmers!, a.Clark, h.Miller, m.aurelius, h.Meliville, f.dostoesvsky  
