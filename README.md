@@ -16,14 +16,14 @@
 
 ----------
 
-a few pillars  
+pillars  
 -- 👀-  Proven skills in partnering with leaders to intuit goals and ensure program learning objectives.   
 -- 👀- 👀-->  Apply theory and learning principles to multimedia to achieve desired learning focus.   
--- 👀- 👀-- 👀 --> Promote an ontology of happiness and balance with all peers.  
--- 👀- 👀-- 👀-->  Do other people matter? Of course, tutoring a clinical associate to pass TEAS and start nursing school.  
--- 👀- 👀-- 👀-- 👀 --> Adept leadership and team communication while learning and developing quality technical assets.   
+-- 👀- 👀-- 👀 --> Promote an ontology of happiness and balance amongst all peers.  
+-- 👀- 👀-- 👀-->  Activitely engage in offering tutoring to any family, friend, or associate in need.  
+-- 👀- 👀-- 👀-- 👀 --> Adept leadership and communication during quality learning media development.    
 -- 👀- 👀-- 👀--> Need the complex explained? Rely on my keen grok skills to decipher, translate, and bridge content.   
--- 👀 --> Are there curious creatures on your team? Happy to share recent neuroscience literature learnings.  
+-- 👀 --> Goal- use long format podcasts as basis to frame undergraduate courses in computer literacy.  
 
 👋  ROLE Models=> f.Chollet, Ida Momennejad(learning salon) + John Langford (MSFT),  
 -- a.Kroker, d.Chalmers!, a.Clark, h.Miller, m.aurelius, h.Meliville, f.dostoesvsky  
@@ -32,7 +32,10 @@ a few pillars
 
 ---------
 
-> >Major LEX FRIDMAN fan. I would like to use his podcasts as a basis for expanding computer literacy.
+>> Major LEX FRIDMAN fan. I would like to use his podcasts as a basis for expanding computer literacy.  
+**Proud to make it to last interview round with Dr. Fridman <secretary position>.**  
+**Unfortunately I was too slow on the timed tests and.or didn't fancy his brain's machine learning scoring**
+https://lexfridman.com/    
 
 >>>it would be beautiful to see a nexus of brainwave transmissions  
 >>>>        Need to expand understanding and scope of consciousness   
@@ -41,8 +44,7 @@ a few pillars
 >>               how important is spice in the dish you are making  
 >>>>  hunger. anything but hunger  
 >>>> >>>>     beauty is an absence of things otherwise consuming your attention  
-[LexFridman Book List.pdf](https://github.com/bbe2/bbz-overview/files/10171801/LexFridman.Book.List.pdf)  
-https://lexfridman.com/    
+[LexFridman Book List.pdf](https://github.com/bbe2/bbz-overview/files/10171801/LexFridman.Book.List.pdf) =>**Lex considers essential reading**  
 
 -----------
 
