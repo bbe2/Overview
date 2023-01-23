@@ -2,12 +2,12 @@
 • https://theskylive.com/________connected to NASA jet propulsion data, amazing   
 • https://www.abebooks.com/______excellent source used book providers, nothing finer  
 • https://onlinecolumnist.com/___author John M. Curtis (author of Dodging The Bullet {hard book to get!})  
-•                                 ==> politically neutral commentary analyzing spin in national and global news.  
+•________________________________=> politically neutral commentary analyzing spin in national and global news.  
 • https://www.dea.gov/fentanylawareness__modern tragedy of the commons; helpful to remind students at start of each semester   
 • https://personal.math.ubc.ca/~cass/Euclid/euclid.html  
 
 --Thank you for stopping by and learning about my substance ~brian  
-**>_7.py.pillars, course author** innovative Python essentials  module to fill existing training literature gaps.
+**>_7.pillars.of.py** | course author** innovative Python essentials  module to fill existing training literature gaps.
 
 -- 👀- I'm a technical curriculum developer, instructional designer, and university instructor.
 -- 👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.
