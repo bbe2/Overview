@@ -1,4 +1,4 @@
-**Thank you for stopping by and learning about my substance ~brian**  
+Thank you for learning about my **substance** ~brian  
 👀- I'm a technical curriculum developer, instructional designer, and university instructor.  
 👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.  
 👀- Deep reengineering work and hands-on programming inform design choices that effectively bridge constructs to learners.  
@@ -33,10 +33,10 @@
 • https://personal.math.ubc.ca/~cass/Euclid/euclid.html  
 
 
-👋  ROLE Models=> f.Chollet, Ida Momennejad(learning salon) + John Langford (MSFT),  
--- a.Kroker, d.Chalmers!, a.Clark, h.Miller, m.aurelius, h.Meliville, f.dostoesvsky  
--- new new real, hard problems of consciousness, 2001, tropic cancer, meditations, moby dick, Братья Карамазовы  
--- f.chollet on the measure of intelligence' is rather amazing, https://arxiv.org/abs/1911.01547  
+**ROLE Models:** f.Chollet, Ida Momennejad(learning salon) + John Langford (MSFT),  
+-> a.Kroker, d.Chalmers!, a.Clark, h.Miller, m.aurelius, h.Meliville, f.dostoesvsky  
+-> new new real, hard problems of consciousness, 2001, tropic cancer, meditations, moby dick, Братья Карамазовы  
+-> f.chollet on the measure of intelligence' is rather amazing, https://arxiv.org/abs/1911.01547  
 
 ---------
 
