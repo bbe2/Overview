@@ -6,7 +6,7 @@
 
 
 --Thank you for stopping by and learning about my substance ~brian  
-**NEW** my >_7.py.pillars course to help absorb python data objects and core programming skills  
+**>_7.py.pillars, course author** innovative Python essentials  module to fill existing training literature gaps.
 
 -- 👀- I'm a technical curriculum developer, instructional designer, and university instructor.
 -- 👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.
