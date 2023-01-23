@@ -6,18 +6,20 @@
 • https://www.dea.gov/fentanylawareness__modern tragedy of the commons; helpful to remind students at start of each semester   
 • https://personal.math.ubc.ca/~cass/Euclid/euclid.html  
 
---Thank you for stopping by and learning about my substance ~brian  
-**>_7.pillars.of.py** | course author** innovative Python essentials  module to fill existing training literature gaps.
-
--- 👀- I'm a technical curriculum developer, instructional designer, and university instructor.
--- 👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.
--- 👀- Deep reengineering work and hands-on programming inform design choices that effectively bridge constructs to learners.
+**--Thank you for stopping by and learning about my substance ~brian**  
+-- 👀- I'm a technical curriculum developer, instructional designer, and university instructor.  
+-- 👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.  
+-- 👀- Deep reengineering work and hands-on programming inform design choices that effectively bridge constructs to learners.  
 👋  GOAL=> build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
-=> frame "compute" as paths towards quality work, employment resilience, and fulfillment
+=> frame "compute" as paths towards quality work, employment resilience, and fulfillment  
 
-----------
-
-pillars  
+**NEW** 1Q23 - https://icarus.education/  
+**>_7.pillars.of.py** | author of an innovative Python learning module to address deficiencies in current literature.  
+• Formulated an innovative Python learning module to address deficiencies in current training literature.  
+• Secured the inclusion of the course on the ICARUS-AI E-Learning platform.  
+• Designed to experience plasticity with data transformers and coding of iterators, conditions, and classes.  
+-------------
+my.pillars  
 -- 👀-  Proven skills in partnering with leaders to intuit goals and ensure program learning objectives.   
 -- 👀- 👀-->  Apply theory and learning principles to multimedia to achieve desired learning focus.   
 -- 👀- 👀-- 👀 --> Promote an ontology of happiness and balance amongst all peers.  
