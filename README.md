@@ -3,8 +3,8 @@
 • https://www.abebooks.com/______excellent source used book providers, nothing finer  
 • https://onlinecolumnist.com/___author John M. Curtis (author of Dodging The Bullet {hard book to get!})  
 • _______politically neutral commentary analyzing spin in national and global news.  
-• https://www.dea.gov/fentanylawareness__modern tragedy of the commons; helpful to remind students at start of each semester  
-
+• https://www.dea.gov/fentanylawareness__modern tragedy of the commons; helpful to remind students at start of each semester   
+• https://personal.math.ubc.ca/~cass/Euclid/euclid.html  
 
 --Thank you for stopping by and learning about my substance ~brian  
 **>_7.py.pillars, course author** innovative Python essentials  module to fill existing training literature gaps.
@@ -13,7 +13,7 @@
 -- 👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.
 -- 👀- Deep reengineering work and hands-on programming inform design choices that effectively bridge constructs to learners.
 👋  GOAL=> build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
- >>>>          frame "compute" as paths towards quality work, employment resilience, and fulfillment
+=> frame "compute" as paths towards quality work, employment resilience, and fulfillment
 
 ----------
 
