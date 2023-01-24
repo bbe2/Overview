@@ -52,7 +52,7 @@ https://lexfridman.com/
 >>               how important is spice in the dish you are making  
 >>>>  hunger. anything but hunger  
 >>>> >>>>     beauty is an absence of things otherwise consuming your attention  
-[LexFridman Book List.pdf](https://github.com/bbe2/bbz-overview/files/10171801/LexFridman.Book.List.pdf) =>**Lex considers essential reading**  
+**Lex considers essential reading**   https://github.com/bbe2/Overview/blob/main/LexFridman.Book.List.pdf  
 
 -----------
 
