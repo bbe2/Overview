@@ -1,7 +1,7 @@
 Thank you for learning about my **substance** ~brian  
 👀- I'm a technical curriculum developer, instructional designer, and university instructor.  
 👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.  
-👀- Deep reengineering work and hands-on programming inform design choices that effectively bridge constructs to learners.  
+👀- Deep operations reengineering and programming skills inform design choices that effectively bridge constructs to learners.  
 
 **GOALs**
 👋  build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
@@ -56,7 +56,7 @@ https://lexfridman.com/
 
 -----------
 
-## chewySCI
+## Question:
 => How will the new REAL.machines work with humans to compute the impossible at a critical moment?
 Will Isaac Asimov's children drown?  
 
