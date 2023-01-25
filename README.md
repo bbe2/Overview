@@ -73,7 +73,12 @@ Cooper
 
 Interstellar, screenplay, p.122, 2014  
 
-----------------
+# ChatGPT - Have you realized the significance yet?  
+
+![hal](https://user-images.githubusercontent.com/59778456/214678743-db47b171-78a6-4797-8995-6b6b41a0bf52.png)
+
+
+ ----------------
 Portfolio
 • coach_tutor_volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer
 • code training an samples_https://github.com/bbe2/portfolio/tree/code
@@ -89,14 +94,6 @@ Portfolio
 NEW
 • >_7.Pillars.of.Python______https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python
 
-**PS - google's foobar is quite interesting! **
-![afoobar](https://user-images.githubusercontent.com/59778456/199842499-10046164-b7e6-4990-b9f3-da9e5069536d.JPG)
-
---------------------
-> And now for something completely different
->>>> >>>>          the best egg cooker and time savior to make yummy eggs
-![dash_egg_cooker](https://user-images.githubusercontent.com/59778456/209671931-932ecdc1-5d08-477f-a009-8542de48affa.JPG)
-https://www.amazon.com/Dash-Rapid-Egg-Cooker-Scrambled/dp/B0168CNYD8?th=1
-
 >>>> https://plato.stanford.edu/  
  -- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf   
+ 
