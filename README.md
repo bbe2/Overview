@@ -27,7 +27,7 @@ Thank you for learning about my **substance** ~brian
 **recent gems**  
 • https://theskylive.com/________connected to NASA jet propulsion data, amazing   
 • https://www.abebooks.com/______excellent source used book providers, nothing finer  
-• https://onlinecolumnist.com/___author John M. Curtis (author of Dodging The Bullet {hard book to get!})  
+• https://onlinecolumnist.com/articles/ John M. Curtis (author of Dodging The Bullet {hard book to get!})  
 •________________________________=> politically neutral commentary analyzing spin in national and global news.  
 • https://www.dea.gov/fentanylawareness__pls remind students of this danger     
 • https://personal.math.ubc.ca/~cass/Euclid/euclid.html  
