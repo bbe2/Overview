@@ -1,7 +1,9 @@
+https://theskylive.com/c2022a2-info  #super space resource  
+
 Thank you for learning about my **substance** ~brian  
 👀- I'm a technical curriculum developer, instructional designer, and university instructor.  
 👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.  
-👀- Deep operations reengineering and programming skills inform design choices that effectively bridge constructs to learners.  
+👀- Deep operations reengineering and programming skills inform design choices bridging constructs to learners.  
 
 **GOALs**
 👋  build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
