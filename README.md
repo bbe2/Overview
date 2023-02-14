@@ -1,9 +1,9 @@
 https://theskylive.com/c2022a2-info  #super space resource  
 
 Thank you for learning about my **substance** ~brian  
-👀- I'm a technical curriculum developer, instructional designer, and university instructor.  
-👀- Deliver effective learning experiences and creative content with a knack for connecting across personality types.  
-👀- Deep operations reengineering and programming skills inform design choices bridging constructs to learners.  
+👀- my work focuses on technical curriculum, instructional designing programming skill lessons, and university teaching of computer science including STEM communication.
+
+If searching for tutoring help for a young adult please reach as happy to provide guidance and.or assist. ~brian
 
 **GOALs**
 👋  build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
@@ -27,6 +27,8 @@ Thank you for learning about my **substance** ~brian
 ------------
 
 **recent gems**  
+=> (this is a beelicious rant) https://github.com/HimangshuCyber/Math-Quiz  
+
 • https://theskylive.com/________connected to NASA jet propulsion data, amazing   
 • https://www.abebooks.com/______excellent source used book providers, nothing finer  
 • https://onlinecolumnist.com/articles/ John M. Curtis (author of Dodging The Bullet {hard book to get!})  
