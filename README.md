@@ -1,9 +1,9 @@
 https://theskylive.com/c2022a2-info  #super space resource  
 
 Thank you for learning about my **substance** ~brian  
-👀- my work focuses on technical curriculum, instructional designing programming skill lessons, and university teaching of computer science including STEM communication.
+my work focuses on technical curriculum, instructional designing programming skill lessons, and university teaching of computer science including STEM communication.  
 
-If searching for tutoring help for a young adult please reach as happy to provide guidance and.or assist. ~brian
+If searching for tutoring help for a young adult please reach as happy to provide guidance and.or assist. ~brian  
 
 **GOALs**
 👋  build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
