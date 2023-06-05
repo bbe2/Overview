@@ -1,6 +1,6 @@
 I am an instructor of undergraduate and graduate courses in C++, Python programming, data mining, systems design and analysis, and STEM technical communication.  
 `Thank you for learning about my substance ~brian`
->>>> https://plato.stanford.edu/  
+>> https://plato.stanford.edu/  
  -- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf   
 
 https://theskylive.com/c2022a2-info  #super space resource  
