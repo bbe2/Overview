@@ -1,38 +1,26 @@
+I am an instructor of undergraduate and graduate courses in C++, Python programming, data mining, systems design and analysis, and STEM technical communication.  
+`Thank you for learning about my substance ~brian`
+>>>> https://plato.stanford.edu/  
+ -- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf   
+
 https://theskylive.com/c2022a2-info  #super space resource  
 
-Thank you for learning about my **substance** ~brian  
-my work focuses on technical curriculum, instructional designing programming skill lessons, and university teaching of computer science including STEM communication.  
+[`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
+[`code`](https://github.com/bbe2/portfolio/tree/code)  [`teaching`](https://github.com/bbe2/portfolio/tree/teaching)  
+[`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
+[`multimedia.styleguide`](https://github.com/bbe2/portfolio/tree/multimedia_styleguide)  
+[`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
+[`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
+[`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience ) [`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit) 
+[`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
-If searching for tutoring help for a young adult please reach as happy to provide guidance and.or assist. ~brian  
-
-**GOALs**
-👋  build a sustainable culture of programming energizing youth and adult learners in the art of the possible  
-👋  frame "compute" as paths towards quality work, employment resilience, and fulfillment  
-
-**my.pillars**  
-👀-  Proven skills in partnering with leaders to intuit goals and ensure program learning objectives.   
-👀- 👀-->  Apply theory and learning principles to multimedia to achieve desired learning focus.   
-👀- 👀-- 👀 --> Promote an ontology of happiness and balance amongst all peers.  
-👀- 👀-- 👀-->  Actively offer tutoring to friends and any of their acquaintances.  
-👀- 👀-- 👀-- 👀 --> Adept leadership and communication during quality learning media development.    
-👀- 👀-- 👀--> Need the complex explained? Rely on my keen grok skills to decipher, translate, and connect others to content.   
-👀 --> currently formulating use long format podcasts as basis to frame an undergrad course computer literacy.  
-
-**NEW** 1Q23 - https://icarus.education/  
-**>_7.pillars.of.py** | author of an innovative Python learning module to address deficiencies in current literature.  
-• Formulated an innovative Python learning module to address deficiencies in current training literature.  
-• Secured the inclusion of the course on the ICARUS-AI E-Learning platform.  
-• Designed to experience plasticity with data transformers and coding of iterators, conditions, and classes.  
-
-------------
 
 **recent gems**  
-=> (this is a beelicious rant) https://github.com/HimangshuCyber/Math-Quiz  
+=> (beelicious rant) https://github.com/HimangshuCyber/Math-Quiz  
 
 • https://theskylive.com/________connected to NASA jet propulsion data, amazing   
 • https://www.abebooks.com/______excellent source used book providers, nothing finer  
 • https://onlinecolumnist.com/articles/ John M. Curtis (author of Dodging The Bullet {hard book to get!})  
-•________________________________=> politically neutral commentary analyzing spin in national and global news.  
 • https://www.dea.gov/fentanylawareness__pls remind students of this danger     
 • https://personal.math.ubc.ca/~cass/Euclid/euclid.html  
 • https://explore.skillbuilder.aws  #Amazon web services training  
@@ -43,7 +31,6 @@ If searching for tutoring help for a young adult please reach as happy to provid
 -> f.chollet on the measure of intelligence' is rather amazing, https://arxiv.org/abs/1911.01547  
 
 ---------
-
 >> Major LEX FRIDMAN fan. I would like to use his podcasts as a basis for expanding computer literacy.  
 **Proud to make it to last interview round with Dr. Fridman <secretary position>.**  
 **Unfortunately I was too slow on the timed tests and.or didn't fancy his brain's machine learning scoring**
@@ -58,45 +45,7 @@ https://lexfridman.com/
 >>>> >>>>     beauty is an absence of things otherwise consuming your attention  
 **Lex considers essential reading**   https://github.com/bbe2/Overview/blob/main/LexFridman.Book.List.pdf  
 
------------
 
-## Question:
+ 
 => How will the new REAL.machines work with humans to compute the impossible at a critical moment?
 Will Isaac Asimov's children drown?  
-
-----------
-
-Cooper (human)  
--- Get ready to match our spin with the retro-thrusters  
-
-CASE (robot)  
--- It's not possible.  
-
-Cooper 
--- No. It's necessary.  
-
-Interstellar, screenplay, p.122, 2014  
-
-# ChatGPT - Have you realized the significance yet?  
-
-![hal](https://user-images.githubusercontent.com/59778456/214678743-db47b171-78a6-4797-8995-6b6b41a0bf52.png)
-
-
- ----------------
-Portfolio  - https://github.com/bbe2/portfolio  
-• coach_tutor_volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
-• code training an samples_https://github.com/bbe2/portfolio/tree/code  
-• Google Prof. ML Cert_____https://github.com/bbe2/portfolio/tree/google_Prof_ML_eng_cert  
-• master of science port____https://github.com/bbe2/portfolio/tree/master_portfolio  
-• multimedia_styleguide___https://github.com/bbe2/portfolio/tree/multimedia_styleguide  
-• re-engineering____________https://github.com/bbe2/portfolio/tree/reengineering  
-• reference_recommend____https://github.com/bbe2/portfolio/tree/reference_recommend  
-• research_experience______https://github.com/bbe2/portfolio/tree/research_experience  
-• scientific_editing__________https://github.com/bbe2/portfolio/tree/scientific_edit  
-• technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
-• tech curriculum + Grow w Google__https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
-• >_7.Pillars.of.Python______https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
-
->>>> https://plato.stanford.edu/  
- -- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf   
- 
