@@ -34,13 +34,13 @@ Major `LEX FRIDMAN` fan. I would like to use his podcasts as a basis for expandi
 **even though he should have picked me i forgive him**
 https://lexfridman.com/    
 
->>> it would be beautiful to see a nexus of brainwave transmissions  
->>>>        Need to expand understanding and scope of consciousness   
->>>> >>>>          beauty will save the world - Dostoevsky   
->>>>      reason is a slave of the passions - D. Hume  
->>               how important is spice in the dish you are making  
->>>>  hunger. anything but hunger  
->>>> >>>>     beauty is an absence of things otherwise consuming your attention  
+>> it would be beautiful to see a nexus of brainwave transmissions  
+>>        Need to expand understanding and scope of consciousness   
+>> >>>>          beauty will save the world - Dostoevsky   
+>>      reason is a slave of the passions - D. Hume  
+>               how important is spice in the dish you are making  
+>>  hunger. anything but hunger  
+> >>>>     beauty is an absence of things otherwise consuming your attention  
 **Lex considers essential reading**   https://github.com/bbe2/Overview/blob/main/LexFridman.Book.List.pdf  
 
 
