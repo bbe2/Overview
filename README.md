@@ -1,9 +1,8 @@
 I am an instructor of undergraduate and graduate courses in C++, Python programming, data mining, systems design and analysis, and STEM technical communication.  
 `Thank you for learning about my substance ~brian`
->> https://plato.stanford.edu/  
- -- https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf   
 
-https://theskylive.com/c2022a2-info  #super space resource  
+> https://plato.stanford.edu/  
+ [substance.philophy](https://github.com/bbe2/research-papers-i-love/blob/9c8853f102a40c037cb76c34e43d9f4668d893e4/(2022)%20(plato)%20substance.pdf)  
 
 [`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
 [`code`](https://github.com/bbe2/portfolio/tree/code)  [`teaching`](https://github.com/bbe2/portfolio/tree/teaching)  
@@ -17,7 +16,6 @@ https://theskylive.com/c2022a2-info  #super space resource
 
 **recent gems**  
 => (beelicious rant) https://github.com/HimangshuCyber/Math-Quiz  
-
 • https://theskylive.com/________connected to NASA jet propulsion data, amazing   
 • https://www.abebooks.com/______excellent source used book providers, nothing finer  
 • https://onlinecolumnist.com/articles/ John M. Curtis (author of Dodging The Bullet {hard book to get!})  
@@ -31,12 +29,12 @@ https://theskylive.com/c2022a2-info  #super space resource
 -> f.chollet on the measure of intelligence' is rather amazing, https://arxiv.org/abs/1911.01547  
 
 ---------
->> Major LEX FRIDMAN fan. I would like to use his podcasts as a basis for expanding computer literacy.  
-**Proud to make it to last interview round with Dr. Fridman <secretary position>.**  
-**Unfortunately I was too slow on the timed tests and.or didn't fancy his brain's machine learning scoring**
+Major `LEX FRIDMAN` fan. I would like to use his podcasts as a basis for expanding computer literacy.  
+**Proud to make it to last interview round with Lex as his secretary, 2020**  
+**even though he should have picked me i forgive him**
 https://lexfridman.com/    
 
->>>it would be beautiful to see a nexus of brainwave transmissions  
+>>> it would be beautiful to see a nexus of brainwave transmissions  
 >>>>        Need to expand understanding and scope of consciousness   
 >>>> >>>>          beauty will save the world - Dostoevsky   
 >>>>      reason is a slave of the passions - D. Hume  
@@ -46,6 +44,5 @@ https://lexfridman.com/
 **Lex considers essential reading**   https://github.com/bbe2/Overview/blob/main/LexFridman.Book.List.pdf  
 
 
- 
 => How will the new REAL.machines work with humans to compute the impossible at a critical moment?
 Will Isaac Asimov's children drown?  
